@@ -1,549 +1,549 @@
-"id";"ville";"code";"ville_redressee";"long";"lat";"province";"departement";"type";"poste";"PG";"PP";"L";"E";"B";"SB";"C";"T";"total"
-1;"Abbeville";80001;"Abbeville";"1.83333";"50.1";"Picardie";"Abbeville";"D. de la P. Générale";1;;;1;1;;1;8;;11
-2;"Agen";47001;"Agen";"0.633333";"44.2";"Guyenne";"Agen";"D. de la P. Générale";1;;;1;;;1;4;;6
-3;"Airaines";80013;"Airaines";"1.95";"49.9667";"Picardie";"Abbeville";"Brigade";0;;;;;1;;4;;5
-4;"Aix";13001;"Aix-en-Provence";"5.43333";"43.5333";"Provence";"Aix";"P. Générale";1;1;;1;1;;1;8;1;13
-5;"Alais";30007;"Alès";"4.08333";"44.1333";"Languedoc";"Montpellier";"Brigade";0;;;;1;;;4;;5
-6;"Albert";80016;"Albert";"2.65";50;"Picardie";"Amiens";"Brigade";0;;;;;;1;4;;5
-7;"Alby";"‎81004";"Albi";"2.15";"43.9333";"Languedoc";"Toulouse";"Brigade";0;;;;1;;;4;;5
-8;"Alençon";61001;"Alençon";"0.083333";"48.4333";"Alençon";"Alençon";"P. Générale";1;1;;1;;1;1;4;1;9
-9;"Alt-Kirch";68004;"Altkirch";"7.25";"47.6167";"Alsace";"Colmar";"Brigade";1;;;;;;1;4;;5
-10;"Ambert";63003;"Ambert";"3.75";"45.55";"Auvergne";"Riom";"Brigade";0;;;;1;;;4;;5
-11;"Amboise";37003;"Amboise";"0.983333";"47.4167";"Touraine";"Tours";"Brigade";1;;;;1;;1;4;;6
-12;"Amiens";80021;"Amiens";"2.3";"49.9";"Picardie";"Amiens";"P. Générale";1;1;;1;1;;1;8;1;13
-13;"Ancenis";44003;"Ancenis";"-1.16667";"47.3667";"Bretagne";"Nantes";"Brigade";1;;;;;;1;4;;5
-14;"Angers";49007;"Angers";"-0.55";"47.4667";"Anjou";"Angers";"P. Générale";1;1;;1;1;1;1;12;1;18
-15;"Angoulême";16015;"Angoulême";"0.15";"45.65";"Limousin";"Angoulême";"D. de la P. Générale";0;;;1;;1;;4;;6
-16;"Anonnonai";"‎07010";"Annonay";"4.66667";"45.2333";"Languedoc";"Puy";"Brigade";0;;;;;1;;4;;5
-17;"Apt";84003;"Apt";"5.4";"43.8833";"Provence";"Digne";"Brigade";0;;;;;;1;4;;5
-18;"Arcis sur Aube";"‎10006";"Arcis-sur-Aube";"4.13333";"48.5333";"Champagne";"Troyes";"Brigade";1;;;;;1;;4;;5
-19;"Argentat";19010;"Argentat";"1.93333";"45.1";"Limousin";"Tulles";"Brigade";1;;;;1;;;4;;5
-20;"Argenton";36006;"Argenton-sur-Creuse";"1.51667";"46.5833";"Berry";"Bourges";"Brigade";1;;;;;;1;4;;5
-21;"Arpajon";91021;"Arpajon";"2.25";"48.5833";"Paris";"Melun";"Brigade";1;;;;;1;;4;;5
-22;"Arras";62041;"Arras";"2.78333";"50.2833";"Artois";"Amiens";"Brigade";1;;;1;;;1;4;;6
-24;"Aubenas";7019;"Aubenas";"4.38333";"44.6167";"Languedoc";"Puy";"Brigade";0;;;;;1;;4;;5
-25;"Aubigny";18015;"Aubigny-sur-Nère";"2.43333";"47.4833";"Berry";"Bourges";"Brigade";0;;;;;1;;4;;5
-26;"Aubusson";61011;"Aubusson";"-0.55";"48.7833";"Bourbonnais";"Gueret";"Brigade";0;;;;;1;;4;;5
-27;"Auch";32013;"Auch";"0.583333";"43.65";"Béarn";"Auch";"D. de la P. Générale";0;;;1;1;;;4;;6
-29;"Aulney";76631;;;;"Caen";"Caen";"Brigade";0;;;;;;1;4;;5
-30;"Aumale";76035;"Aumale";"1.75";"49.7667";"Rouen";"Rouen";"Brigade";0;;;;;;1;4;;5
-32;"Aurillac";15014;"Aurillac";"2.45";"44.9167";"Auvergne";"St Flour";"Brigade";1;;;;1;;;4;;5
-33;"Autry";8036;"Autry";"4.83333";"49.2667";"Champagne";"Challons";"Brigade";0;;;;;1;;4;;5
-34;"Autun";71014;"Autun";"4.3";"46.95";"Bourgogne";"Autun";"D. de la P. Générale";0;;1;1;;1;;4;;7
-35;"Auxerre";89024;"Auxerre";"3.56667";"47.8";"Bourgogne";"Auxerre";"D. de la P. Générale";1;;1;1;;1;;4;;7
-36;"Auxonne";21038;"Auxonne";"5.38333";"47.2";"Bourgogne";"Dijon";"Brigade";1;;;;;;1;4;;5
-23;"Avallon";89025;"Avallon";"3.9";"47.4833";"Bourgogne";"Auxerre";"Brigade";0;;;;;;1;4;;5
-28;"Avennes";"Belgique";"Avennes";"5.1141";"50.571";"Hainaut";"Valenciennes";"Brigade";1;;;;;1;;4;;5
-31;"Avranches";50025;"Avranches";"-1.36667";"48.6833";"Caen";"Coutances";"Brigade";1;;;;1;;;4;;5
-37;"Bapaume";62080;"Bapaume";"2.85";"50.1";"Artois";"Arras";"Brigade";1;;;;;;1;4;;5
-38;"Bar-le-duc";55029;"Bar-le-Duc";"5.16667";"48.7833";"Lorraine";"Bar-le-duc";"D. de la P. Générale";1;;;1;;;1;4;;6
-39;"Bar-sur-Aube";10033;"Bar-sur-Aube";"4.71667";"48.2333";"Champagne";"Troyes";"Brigade";1;;;;1;;;4;;5
-40;"Barbesieux";16028;"Barbezieux-Saint-Hilaire";"-0.155556";"45.4728";"Aunix";"Saintes";"Brigade";1;;;;;1;;4;;5
-41;"Baugé";49018;"Baugé";"-0.1";"47.5417";"Anjou";"Angers";"Brigade";0;;;;1;;;4;;5
-42;"Baume";25047;"Baume-les-Dames";"6.36667";"47.35";"Bourgogne";"Besançon";"Brigade";1;;;;1;;;4;;5
-43;"Bayeux";14047;"Bayeux";"-0.7";"49.2667";"Caen";"Caen";"Brigade";1;;;;1;;;4;;5
-44;"Bayonne";64102;"Bayonne";"-1.48333";"43.4833";"Béarn";"Mont de Marsan";"Brigade";1;;;;1;;;4;;5
-47;"Beaumont";14055;"Beaumont-en-Auge";"0.116667";"49.2833";"Alençon";"Falaise";"Brigade";1;;;;;;1;4;;5
-46;"Beaumont";72029;"Beaumont-sur-Sarthe";"0.133333";"48.2167";"Maine";"Le Mans";"Brigade";1;;;;1;;;4;;5
-45;"Beaumont";95052;"Beaumont-sur-Oise";"2.28333";"49.1333";"Paris";"Beauvais";"Brigade";1;;;;;1;;4;;5
-48;"Beaune";21054;"Beaune";"4.83333";"47.0333";"Bourgogne";"Autun";"Brigade";1;;;;;;1;4;;5
-49;"Beauvais";60057;"Beauvais";"2.08333";"49.4333";"Paris";"Beauvais";"D. de la P. Générale";1;;;1;1;;;4;;6
-51;"Bélac";87011;"Bellac";"1.05";"46.1167";"Limousin";"Limoges";"Brigade";0;;;;;;1;4;;5
-50;"Belfort";90010;"Belfort";"6.86667";"47.6333";"Alsace";"Colmar";"Brigade";1;;;;1;;;4;;5
-53;"Bergues";59067;"Bergues";"2.43333";"50.9667";"Flandres";"Lille";"Brigade";1;;;;;1;;4;;5
-56;"Besançon";25056;"Besançon";"6.03333";"47.25";"Bourgogne";"Besançon";"P. Générale";1;1;;1;;1;1;8;1;13
-54;"Besse";63038;"Besse-et-Saint-Anastaise";"2.93278";"45.5131";"Auvergne";"Riom";"Brigade";0;;;;;1;;4;;5
-52;"Bessey";21065;"Bessey-en-Chaume";"4.73333";"47.0833";"Bourgogne";"Bessey";"D. de la P. Générale";0;;1;;;1;;4;;6
-55;"Bessine";87014;"Bessines-sur-Gartempe";"1.36667";"46.1";"Limousin";"Limoges";"Brigade";1;;;;;1;;4;;5
-69;"Beurganeuf";23030;"Bourganeuf";"1.75";"45.95";"Limousin";"Limoges";"Brigade";0;;;;1;;;4;;5
-57;"Béziers";34032;"Béziers";"3.25";"43.35";"Languedoc";"Montpellier";"Brigade";1;;;;;1;;4;;5
-58;"Bitche";57089;"Bitche";"7.43333";"49.05";"Lorraine";"Sarguemine";"Brigade";1;;;;1;;1;4;;6
-59;"Blamont";"‎54077";"Blamont";"6.85";"48.5833";"Lorraine";"Nancy";"Brigade";1;;;;;1;;4;;5
-60;"Blaye";33058;"Blaye";"-0.662222";"45.1278";"Guyenne";"Bordeaux";"Brigade";0;;;;;1;;4;;5
-61;"Blois";41018;"Blois";"1.33333";"47.5833";"Orléanais";"Blois";"D. de la P. Générale";1;;;1;;1;1;8;;11
-62;"Boen";42019;"Boën";"3.98333";"45.7333";"Lyonnais";"Montbrison";"Brigade";1;;;;;;1;4;;5
-64;"Bondy";93010;"Bondy";"2.46667";"48.9";"Ile-de-France";"Paris";"Brigade";1;;;;1;;;4;;5
-65;"Bony";2100;"Bony";"3.21667";"49.9833";"Orléanais";"Orléans";"Brigade";1;;;;;1;;4;;5
-66;"Bordeaux";33063;"Bordeaux";"-0.566667";"44.8333";"Guyenne";"Bordeaux";"P. Générale";1;1;;2;1;;1;8;1;14
-74;"Boulai";"‎57097";"Boulay-Moselle";"6.5";"49.1833";"Lorraine";"Sarguemine";"Brigade";1;;;;;1;;4;;5
-63;"Boulogne";31080;"Boulogne-sur-Gesse";"0.644722";"43.2895";"Béarn";"Auch";"Brigade";0;;;;;;1;4;;5
-75;"Boulogne";62160;"Boulogne-sur-Mer";"1.61667";"50.7167";"Picardie";"Boulogne";"D. de la P. Générale";1;;;1;;;1;4;;6
-67;"Bourbonne";52060;"Bourbonne-les-Bains";"5.75";"47.95";"Champagne";"Langres";"Brigade";0;;;;;1;;4;;5
-70;"Bourg";1053;"Bourg-en-Bresse";"5.21667";"46.2";"Bourgogne";"Bourg";"D. de la P. Générale";0;;1;;1;1;;4;;7
-71;"Bourg la reine";92014;"Bourg-la-Reine";"2.31667";"48.775";"Ile-de-France";"Paris";"Brigade";1;;;1;;;;4;;5
-68;"Bourg-Achard";27103;"Bourg-Achard";"0.816667";"49.35";"Rouen";"Caudebec";"Brigade";1;;;;;;1;4;;5
-72;"Bourges";18033;"Bourges";"2.4";"47.0833";"Berry";"Bourges";"P. Générale";1;1;;2;1;1;;8;1;14
-73;"Bourgoin";38053;"Bourgoin-Jallieu";"5.27972";"45.5917";"Dauphiné";"Grenoble";"Brigade";1;;;;;;1;4;;5
-76;"Bourmont";52064;"Bourmont";"5.58333";"48.2";"Lorraine";"Bar le duc";"Brigade";0;;;;;1;;4;;5
-78;"Bousonville";"‎57106";"Bouzonville";"6.53333";"49.3";"Lorraine";"Sarguemine";"Brigade";0;;;;;1;;4;;5
-77;"Boussac";23031;"Boussac";"2.215";"46.3489";"Berry";"Bourges";"Brigade";0;;;;;;1;4;;5
-81;"Brésol";61059;"Bresolettes";"0.633333";"48.6333";"Alençon";"Alençon";"Brigade";0;;;;;;1;4;;5
-79;"Breteuil";60104;"Breteuil";"2.3";"49.6333";"Picardie";"Amiens";"Brigade";1;;;;1;;;4;;5
-80;"Brethel";61060;"Brethel";"0.533333";"48.7167";"Alençon";"Alençon";"Brigade";0;;;;;1;;4;;5
-82;"Brie-Comte-Robert";77053;"Brie-Comte-Robert";"2.61667";"48.6833";"Paris";"Melun";"Brigade";1;;;;1;;;4;;5
-83;"Brignolle";83023;"Brignoles";"6.06667";"43.4";"Provence";"Aix";"Brigade";1;;;;;;1;4;;5
-84;"Brioude";43040;"Brioude";"3.4";"45.3";"Auvergne";"Riom";"Brigade";1;;;;1;;;4;;5
-85;"Brives la G.";"‎19031";"Brive-la-Gaillarde";"1.53333";"45.15";"Limousin";"Tulles";"Brigade";0;;;;1;;1;8;;10
-86;"Brons";22020;"Broons";"-2.26667";"48.3167";"Bretagne";"Rennes";"Brigade";1;;;;;1;;4;;5
-87;"Caen";14118;"Caen";"-0.35";"49.1833";"Caen";"Caen";"P. Générale";1;1;;1;;1;1;8;1;13
-88;"Cahors";46042;"Cahors";"1.43333";"44.4333";"Montauban";"Cahors";"D. de la P. Générale";1;;;1;;1;1;8;;11
-89;"Calais";62193;"Calais";"1.83333";"50.95";"Picardie";"Boulogne";"Brigade";1;;;;;1;;4;;5
-90;"Cambrai";59122;"Cambrai";"3.23333";"50.1667";"Flandres";"Cambrai";"D. de la P. Générale";1;;;1;1;;;4;;6
-91;"Cambremer";14126;"Cambremer";"0.05";"49.15";"Rouen";"Caudebec";"Brigade";0;;;;;1;;4;;5
-92;"Carcassonne";11069;"Carcassonne";"2.35";"43.2167";"Languedoc";"Carcassonne";"D. de la P. Générale";1;;;1;;;1;4;;6
-93;"Carentan";50099;"Carentan";"-1.23333";"49.3";"Caen";"Coutances";"Brigade";1;;;;;;1;4;;5
-97;"Casets";64175;"Castet";"-0.416667";"43.0667";"Béarn";"Mont de Marsan";"Brigade";1;;;;;;1;4;;5
-94;"Cassel";59135;"Cassel";"2.48333";"50.8";"Flandres";"Cambrai";"Brigade";1;;;;;;1;4;;5
-95;"Casteljaloux ";47052;"Casteljaloux";"0.1";"44.3167";"Guyenne";"Agen";"Brigade";0;;;;;1;;4;;5
-96;"Castelnaudary";11076;"Castelnaudary";"1.95";"43.3167";"Languedoc";"Toulouse";"Brigade";1;;;;;1;;4;;5
-98;"Castres";81065;"Castres";"2.25";"43.6";"Languedoc";"Carcassonne";"Brigade";1;;;;;;1;4;;5
-99;"Caudebec";76164;"Caudebec-en-Caux";"0.733333";"49.5333";"Rouen";"Caudebec";"D. de la P. Générale";1;;;1;;;1;4;;6
-100;"Caudies";66046;"Caudiès-de-Fenouillèdes";"2.38333";"42.8167";"Languedoc";"Carcassonne";"Brigade";0;;;;;;1;4;;5
-101;"Cernay";68063;"Cernay";"7.16667";"47.8167";"Alsace";"Colmar";"Brigade";1;;;;;1;;3;;4
-102;"Chabanais";16070;"Chabanais";"0.716667";"45.8667";"Limousin";"Angoulême";"Brigade";0;;;;;;1;4;;5
-103;"Chalabre";11091;"Chalabre";2;"42.9833";"Languedoc";"Carcassonne";"Brigade";0;;;;;;1;4;;5
-104;"Chalans";85047;"Challans";"-1.88333";"46.85";"Poitou";"Montaigu";"Brigade";0;;;;;1;;4;;5
-105;"Challons";51108;"Châlons-en-Champagne";"4.36667";"48.9583";"Champagne";"Challons";"P. Générale";1;1;;2;1;1;1;12;1;19
-106;"Chalon";71076;"Chalon-sur-Saône";"4.85";"46.7833";"Bourgogne";"Chalons";"D. de la P. Générale";1;;1;1;;1;;4;;7
-107;"Champeau";21139;"Champeau-en-Morvan";"4.14417";"47.2764";"Bourgogne";"Dijon";"Brigade";0;;;;;;1;4;;5
-108;"Chantonnay";85051;"Chantonnay";"-1.05";"46.6833";"Poitou";"Fontenay le Comte";"Brigade";0;;;;;;1;4;;5
-109;"Charenton";94018;"Charenton-le-Pont";"2.41667";"48.8167";"Ile-de-France";"Paris";"Brigade";1;;;1;;;;4;;5
-110;"Charolles";71106;"Charolles";"4.28333";"46.4333";"Bourgogne";"Charolles";"D. de la P. Générale";0;;1;1;;1;;4;;7
-111;"Chartres";28085;"Chartres";"1.5";"48.45";"Orléanais";"Chartres";"D. de la P. Générale";1;;;1;;1;1;8;;11
-133;"Chaselle";"‎57642";"Scy-Chazelles";"6.11667";"49.1167";"Lyonnais";"Lyon";"Brigade";0;;;;;;1;4;;5
-112;"Chasseneuil";16085;"Chasseneuil-sur-Bonnieure";"0.45";"45.8239";"Limousin";"Angoulême";"Brigade";0;;;;;1;;4;;5
-125;"Chat. la Vallière";37062;"Château-la-Vallière";"0.316667";"47.55";"Touraine";"Tours";"Brigade";0;;;;;;1;4;;5
-113;"Chateau Briand";44036;"Châteaubriant";"-1.38333";"47.7167";"Bretagne";"Nantes";"Brigade";0;;;;1;;;4;;5
-114;"Chateau Chinon";58062;"Château-Chinon (Ville)";"3.93305";"47.0653";"Bourbonnais";"Nevers";"Brigade";0;;;;1;;;4;;5
-118;"Chateau du loir";72071;"Château-du-Loir";"0.416667";"47.7";"Maine";"Le Mans";"Brigade";0;;;;;1;;4;;5
-115;"Chateau Dun";28088;"Châteaudun";"1.33333";"48.0833";"Orléanais";"Chartres";"Brigade";0;;;;1;;;4;;5
-116;"Chateau Gontier";53062;"Château-Gontier";"-0.7";"47.8333";"Anjou";"Chateau Gontier";"D. de la P. Générale";0;;;1;;1;;4;;6
-122;"Chateau renaud";37063;"Château-Renault";"0.916667";"47.5833";"Touraine";"Tours";"Brigade";0;;;;;1;;4;;5
-124;"Chateau Thierry";2168;"Château-Thierry";"3.4";"49.05";"Soissonnais";"Soissons";"Brigade";1;;;;;1;;4;;5
-117;"Chateaulin";29026;"Châteaulin";"-4.08333";"48.2";"Bretagne";"Quimper";"Brigade";1;;;;;1;;4;;5
-120;"Chateauneuf";45082;"Châteauneuf-sur-Loire";"2.23333";"47.8667";"Berry";"Bourges";"Brigade";0;;;;;;1;4;;5
-119;"Chateauneuf";45082;"Châteauneuf-sur-Loire";"2.23333";"47.8667";"Orléanais";"Orléans";"Brigade";0;;;;1;;;4;;5
-121;"Chateauneuf";61101;"Le Château-d'Almenêches";"0.116667";"48.6833";"Alençon";"Alençon";"Brigade";0;;;;1;;;4;;5
-123;"Chateauroux";36044;"Châteauroux";"1.7";"46.8167";"Berry";"Chatillon";"Brigade";1;;;;1;;;4;;5
-126;"Chatellereault";"‎86066";"Châtellerault";"0.533333";"46.8";"Poitou";"Poitiers";"Brigade";1;;;;1;;;4;;5
-129;"Chatillon";21154;"Châtillon-sur-Seine";"4.55";"47.85";"Bourgogne";"Chatillon";"D. de la P. Générale";0;;1;1;;1;;4;;7
-127;"Chatillon";36045;"Châtillon-sur-Indre";"1.16667";"46.9833";"Berry";"Chatillon";"D. de la P. Générale";0;;;1;;;1;4;;6
-128;"Chatillon";86067;"Châtillon";"0.2";"46.3167";"Poitou";"Montaigu";"Brigade";0;;;;1;;;4;;5
-130;"Chaudes Aigues";15045;"Chaudes-Aigues";3;"44.85";"Auvergne";"St Flour";"Brigade";0;;;;;1;;4;;5
-131;"Chaume";77107;"Chaumes-en-Brie";"2.85";"48.6667";"Paris";"Melun";"Brigade";0;;;;1;;;4;;5
-132;"Chaumont";52121;"Chaumont";"5.13333";"48.1167";"Champagne";"Langres";"Brigade";1;;;;1;;;4;;5
-134;"Chef-boutonne";79083;"Chef-Boutonne";"-0.05";"46.1";"Poitou";"Fontenay le Comte";"Brigade";0;;;;;;1;4;;5
-135;"Chénéraille";23061;"Chénérailles";"2.16667";"46.1167";"Bourbonnais";"Gueret";"Brigade";0;;;;;;1;4;;5
-136;"Chevreuse";78160;"Chevreuse";"2.05";"48.7";"Paris";"Mantes";"Brigade";0;;;;1;;;4;;5
-137;"Chinon";37072;"Chinon";"0.25";"47.1667";"Touraine";"Tours";"Brigade";0;;;;;1;;4;;5
-138;"Cholet";49099;"Cholet";"-0.883333";"47.0667";"Anjou";"Angers";"Brigade";0;;;;1;;;4;;5
-139;"Clammecy";58079;"Clamecy";"3.51667";"47.45";"Orléanais";"Montargis";"Brigade";0;;;;;;1;4;;5
-140;"Clermont";60157;"Clermont";"2.4";"49.3833";"Soissonnais";"Clermont";"D. de la P. Générale";1;;;1;;1;;4;;6
-141;"Clermont";63113;"Clermont-Ferrand";"3.08333";"45.7833";"Auvergne";"Clermont";"P. Générale";1;1;;;1;;1;8;1;12
-142;"Cognac";16102;"Cognac";"-0.333333";"45.7";"Aunix";"Saintes";"Brigade";0;;;;;;1;4;;5
-143;"Colmar";68066;"Colmar";"7.36667";"48.0833";"Alsace";"Colmar";"D. de la P. Générale";1;;;1;;1;;3;;5
-144;"Compiègne";60159;"Compiègne";"2.83333";"49.4167";"Paris";"Senlis";"Brigade";1;;;;1;;;4;;5
-145;"Confolens";16106;"Confolens";"0.666667";"46.0167";"Poitou";"Montmorillon";"Brigade";0;;;;;;1;4;;5
-146;"Corbeil";91174;"Corbeil-Essonnes";"2.4829";"48.5566";"Paris";"Melun";"Brigade";1;;;;1;;;4;;5
-147;"Corps";38128;"Corps";"5.95";"44.8167";"Dauphiné";"Gap";"Brigade";0;;;;;;1;4;;5
-148;"Coulommiers";77131;"Coulommiers";"3.08333";"48.8167";"Paris";"Meaux";"Brigade";0;;;;1;;;4;;5
-149;"Courtenai";45115;"Courtenay";"3.05";"48.0333";"Paris";"Sens";"Brigade";0;;;;;1;;4;;5
-150;"Coutances";50147;"Coutances";"-1.43333";"49.05";"Caen";"Coutances";"D. de la P. Générale";0;;;1;;1;;4;;6
-151;"Coutras";33138;"Coutras";"-0.133333";"45.0333";"Guyenne";"Bordeaux";"Brigade";1;;;;;;1;4;;5
-152;"Craon";53084;"Craon";"-0.95";"47.85";"Anjou";"Château-Gontier";"Brigade";0;;;;;;1;4;;5
-153;"Creon";33140;"Créon";"-0.35";"44.7833";"Guyenne";"Bordeaux";"Brigade";0;;;;;;1;4;;5
-154;"Cusset";3095;"Cusset";"3.46667";"46.1333";"Bourbonnais";"Moulins";"Brigade";0;;;;1;;;4;;5
-155;"Dammartin";77153;"Dammartin-en-Goële";"2.68333";"49.05";"Paris";"Meaux";"Brigade";1;;;;;;1;4;;5
-156;"Darney";88124;"Darney";"6.05";"48.0833";"Lorraine";"Epinal";"Brigade";0;;;;;1;;4;;5
-157;"Dax";40088;"Dax";"-1.05";"43.7167";"Béarn";"Mont de Marsan";"Brigade";1;;;;;;1;4;;5
-529;"Dernon";27681;"Vernon";"1.48333";"49.0833";"Rouen";"Rouen";"Brigade";1;;;;;;1;4;;5
-158;"Dezise";58095;"Decize";"3.46667";"46.8333";"Bourbonnais";"Nevers";"Brigade";0;;;;;;1;4;;5
-159;"Die";26113;"Die";"5.36667";"44.75";"Dauphiné";"Valence";"Brigade";0;;;;;;1;4;;5
-160;"Dieppe";76217;"Dieppe";"1.08333";"49.9333";"Rouen";"Rouen";"Brigade";1;;;;;1;;4;;5
-161;"Dieuze";57177;"Dieuze";"6.71667";"48.8167";"Lorraine";"Nancy";"Brigade";0;;;;;1;;4;;5
-162;"Digne";4070;"Digne-les-Bains";"6.23639";"44.0933";"Provence";"Digne";"D. de la P. Générale";0;;;1;;1;;4;;6
-163;"Dijon";21231;"Dijon";"5.01667";"47.3167";"Bourgogne";"Dijon";"P. Générale";1;1;;1;;1;1;12;1;17
-164;"Dinan";22050;"Dinan";"-2.23639";"48.4564";"Bretagne";"Rennes";"Brigade";0;;;;1;;;4;;5
-165;"Dol";35095;"Dol-de-Bretagne";"-1.75";"48.55";"Bretagne";"Rennes";"Brigade";0;;;;;;1;4;;5
-166;"Dole";39198;"Dole";"5.5";"47.1";"Bourgogne";"Besançon";"Brigade";1;;;;1;;;4;;5
-167;"Domfront";61145;"Domfront";"-0.65";"48.6";"Alençon";"Alençon";"Brigade";0;;;;;;1;4;;5
-168;"Dormans";51217;"Dormans";"3.63333";"49.0667";"Champagne";"Challons";"Brigade";1;;;;;1;;4;;5
-169;"Douai";59178;"Douai";"3.06667";"50.3667";"Flandres";"Cambrai";"Brigade";1;;;;1;;;4;;5
-171;"Doulens";80253;"Doullens";"2.35";"50.15";"Picardie";"Abbeville";"Brigade";1;;;;1;;;4;;5
-170;"Dourdan";91200;"Dourdan";"2.01667";"48.5333";"Orléanais";"Chartres";"Brigade";0;;;;;;1;4;;5
-172;"Draguignan";83050;"Draguignan";"6.46667";"43.5333";"Provence";"Aix";"Brigade";0;;;;;;1;4;;5
-173;"Dreux";28134;"Dreux";"1.36667";"48.7333";"Paris";"Mantes";"Brigade";1;;;;1;;;4;;5
-175;"Dun-le-Paltau";23244;"Saint-Sulpice-le-Dunois";"1.73333";"46.3";"Bourbonnais";"Gueret";"Brigade";0;;;;;1;;4;;5
-174;"Dun-le-Roy";18087;"Dun-sur-Auron";"2.56667";"46.8833";"Berry";"Bourges";"Brigade";0;;;;;1;;4;;5
-176;"Ecouché";61153;"Écouché";"-0.133333";"48.7167";"Alençon";"Alençon";"Brigade";0;;;;1;;;4;;5
-177;"Ecouis";27214;"Écouis";"1.43333";"49.3167";"Rouen";"Rouen";"Brigade";1;;;;1;;;4;;5
-178;"Embrun";5046;"Embrun";"6.5";"44.5667";"Dauphiné";"Gap";"Brigade";0;;;;;1;;4;;5
-179;"Epernai";51230;"Épernay";"3.95";"49.05";"Champagne";"Challons";"Brigade";1;;;;1;;;4;;5
-182;"Epinal";88160;"Épinal";"6.45";"48.1833";"Lorraine";"Epinal";"D. de la P. Générale";0;;;1;;;1;4;;6
-180;"Ernée";53096;"Ernée";"-0.933333";"48.3";"Anjou";"Château-Gontier";"Brigade";0;;;;;;1;4;;5
-181;"Espaillon";12096;"Espalion";"2.76667";"44.5167";"Montauban";"Rhodez";"Brigade";0;;;;;;1;4;;5
-183;"Etain";55181;"Étain";"5.63333";"49.2167";"Lorraine";"Bar le duc";"Brigade";0;;;;1;;1;4;;6
-184;"Etampes";91223;"Étampes";"2.15";"48.4333";"Paris";"Melun";"Brigade";1;;;;1;;;4;;5
-185;"Etoges";51238;"Étoges";"3.85";"48.8833";"Champagne";"Challons";"Brigade";0;;;;;;1;4;;5
-186;"Eu";76255;"Eu";"1.41667";"50.05";"Rouen";"Rouen";"Brigade";1;;;;1;;;4;;5
-187;"Evaux";23076;"Évaux-les-Bains";"2.48333";"46.1667";"Bourbonnais";"Gueret";"Brigade";0;;;;;;1;4;;5
-188;"Evreux";27229;"Évreux";"1.15";"49.0167";"Rouen";"Rouen";"Brigade";1;;;;1;;;4;;5
-189;"Evron";53097;"Évron";"-0.4";"48.1667";"Maine";"Le Mans";"Brigade";0;;;;;;1;4;;5
-190;"Falaise";14258;"Falaise";"-0.2";"48.9";"Alençon";"Falaise";"D. de la P. Générale";1;;;1;1;;;4;;6
-191;"Fer Champenoise";51248;"Fère-Champenoise";"3.98333";"48.75";"Champagne";"Challons";"Brigade";0;;;;;;1;4;;5
-192;"Figeac";46102;"Figeac";"2.03333";"44.6";"Montauban";"Cahors";"Brigade";0;;;;1;;;4;;5
-193;"Fismes";51250;"Fismes";"3.68333";"49.3";"Champagne";"Reims";"Brigade";1;;;;;;1;4;;5
-194;"Fontainebleau";77186;"Fontainebleau";"2.7";"48.4";"Paris";"Melun";"Brigade";1;;;;1;;;4;;5
-195;"Fontenay le Comte";85092;"Fontenay-le-Comte";"-0.816667";"46.4667";"Poitou";"Fontenay le Comte";"D. de la P. Générale";0;;;1;;;1;4;;6
-196;"Fougeres";35115;"Fougères";"-1.2";"48.35";"Bretagne";"Rennes";"Brigade";0;;;;;;1;4;;5
-197;"Fréjus";83061;"Fréjus";"6.73611";"43.4339";"Provence";"Aix";"Brigade";1;;;;;1;;4;;5
-198;"Fronton";31202;"Fronton";"1.4";"43.85";"Languedoc";"Toulouse";"Brigade";0;;;;;;1;4;;5
-199;"Gacé";61181;"Gacé";"0.3";"48.8";"Alençon";"Falaise";"Brigade";0;;;;;;1;4;;5
-200;"Gange";34111;"Ganges";"3.7";"43.9333";"Languedoc";"Montpellier";"Brigade";0;;;;;;1;4;;5
-201;"Gannat";3118;"Gannat";"3.2";"46.1";"Bourbonnais";"Moulins";"Brigade";1;;;;;1;;4;;5
-202;"Gap";5061;"Gap";"6.08333";"44.5667";"Dauphiné";"Gap";"D. de la P. Générale";0;;;1;;;1;4;;6
-203;"Gex";1173;"Gex";"6.06667";"46.3333";"Bourgogne";"Gex";"D. de la P. Générale";0;;1;;;1;;4;;6
-204;"Gien";45155;"Gien";"2.63333";"47.7";"Orléanais";"Orléans";"Brigade";0;;;;;1;;4;;5
-205;"Givet";8190;"Givet";"4.81667";"50.1333";"Hainaut";"Valenciennes";"Brigade";1;;;;;;1;4;;5
-206;"Gournay";93033;"Gournay-sur-Marne";"2.56667";"48.8667";"Soissonnais";"Clermont";"Brigade";1;;;;;;1;4;;5
-208;"Grai";70279;"Gray";"5.58333";"47.45";"Bourgogne";"Vezoul";"Brigade";0;;;;1;;;4;;5
-207;"Grasse";6069;"Grasse";"6.91667";"43.6667";"Provence";"Aix";"Brigade";0;;;;;;1;4;;5
-209;"Grenade";31232;"Grenade";"1.29361";"43.7722";"Béarn";"Auch";"Brigade";0;;;;;;1;4;;5
-210;"Grenoble";38185;"Grenoble";"5.71667";"45.1667";"Dauphiné";"Grenoble";"P. Générale";1;1;;1;1;;1;8;1;13
-211;"Guer";56075;"Guer";"-2.11667";"47.9";"Bretagne";"Rennes";"Brigade";1;;;;;;1;4;;5
-212;"Gueret";23096;"Guéret";"1.86667";"46.1667";"Bourbonnais";"Gueret";"D. de la P. Générale";0;;;1;;;1;4;;6
-213;"Guingamp";22070;"Guingamp";"-3.15";"48.55";"Bretagne";"Rennes";"Brigade";1;;;;;1;;4;;5
-214;"Guise";2361;"Guise";"3.63333";"49.9";"Soissonnais";"Laon";"Brigade";1;;;;1;;;4;;5
-215;"Haboudange";57281;"Haboudange";"6.61667";"48.8833";"Trois Evêchés";"Metz";"Brigade";1;;;;;;1;4;;5
-216;"Haguenau";67180;"Haguenau";"7.78333";"48.8167";"Alsace";"Strasbourg";"Brigade";1;;;;;;1;4;;5
-217;"Hennebon";56083;"Hennebont";"-3.28333";"47.8";"Bretagne";"Vannes";"Brigade";1;;;;;1;;4;;5
-218;"Hesdin";62447;"Hesdin";"2.03333";"50.3667";"Artois";"Arras";"Brigade";1;;;;;;1;4;;5
-219;"Hirson";2381;"Hirson";"4.08333";"49.9167";"Soissonnais";"Laon";"Brigade";0;;;;;1;;4;;5
-220;"Illiers";28196;"Illiers-Combray";"1.2475";"48.3006";"Orléanais";"Chartres";"Brigade";0;;;;;;1;4;;5
-221;"Ingrandes";49160;"Ingrandes";"-0.916667";"47.4";"Anjou";"Angers";"Brigade";1;;;;;;1;4;;5
-222;"Issoire";63178;"Issoire";"3.25";"45.55";"Auvergne";"Riom";"Brigade";1;;;;1;;;4;;5
-223;"Issoudun";36088;"Issoudun";2;"46.95";"Berry";"Chatillon";"Brigade";0;;;;1;;;4;;5
-224;"Ivry";21318;"Ivry-en-Montagne";"4.63333";"47.0333";"Bourgogne";"Autun";"Brigade";0;;;;;;1;4;;5
-225;"Joigny";89206;"Joigny";"3.4";"47.9833";"Paris";"Sens";"Brigade";1;;;;;1;;4;;5
-226;"Joinville";52250;"Joinville";"5.13333";"48.45";"Champagne";"Langres";"Brigade";1;;;;1;;;4;;5
-227;"Jussey";70292;"Jussey";"5.9";"47.8167";"Bourgogne";"Vezoul";"Brigade";0;;;;;1;;4;;5
-228;"Karhais";29024;"Carhaix-Plouguer";"-3.58333";"48.2833";"Bretagne";"Quimper";"Brigade";0;;;;;;1;4;;5
-229;"La Brelle";69010;"L'Arbresle";"4.61667";"45.8333";"Lyonnais";"Lyon";"Brigade";1;;;;;;1;4;;5
-230;"La Charité";58059;"La Charité-sur-Loire";"3.01889";"47.177";"Berry";"Bourges";"Brigade";1;;;;1;1;;8;;10
-231;"La Chataigneraie";85059;"La Châtaigneraie";"-0.733333";"46.65";"Poitou";"Fontenay le Comte";"Brigade";0;;;;;;1;4;;5
-232;"La Chatre";36046;"La Châtre";"1.98333";"46.5833";"Berry";"Bourges";"Brigade";0;;;;;;1;4;;5
-233;"La Fère";2304;"La Fère";"3.36667";"49.6667";"Soissonnais";"Laon";"Brigade";1;;;;1;;;4;;5
-234;"La Ferté Bernard";"‎72132";"La Ferté-Bernard";"0.666667";"48.1833";"Maine";"Le Mans";"Brigade";1;;;;1;;;4;;5
-235;"La Ferté Sen...te";45146;"La Ferté-Saint-Aubin";"1.93333";"47.7167";"Orléanais";"Orléans";"Brigade";1;;;;;;1;4;;5
-236;"La Flèche";72154;"La Flèche";"-0.083333";"47.7";"Anjou";"Angers";"Brigade";1;;;;1;;;4;;5
-247;"La Pacaudière";42163;"La Pacaudière";"3.86667";"46.1833";"Lyonnais";"Roane";"Brigade";1;;;;1;;;4;;5
-248;"La Rochelle";17300;"La Rochelle";"-1.15";"46.1667";"Aunix";"La Rochelle";"P. Générale";1;1;;1;1;;1;8;1;13
-237;"Lagny";77243;"Lagny-sur-Marne";"2.71667";"48.8667";"Paris";"Meaux";"Brigade";0;;;;1;;;4;;5
-238;"Lambale";22093;"Lamballe";"-2.51667";"48.4667";"Bretagne";"Rennes";"Brigade";1;;;;;;1;4;;5
-239;"Landerneau";29103;"Landerneau";"-4.25";"48.45";"Bretagne";"Quimper";"Brigade";1;;;;1;;;4;;5
-240;"Landreci";59331;"Landrecies";"3.7";"50.1333";"Hainaut";"Valenciennes";"Brigade";1;;;;;1;;4;;5
-241;"Langeac";43112;"Langeac";"3.48333";"45.1";"Auvergne";"Riom";"Brigade";0;;;;;;1;4;;5
-242;"Langeais";37123;"Langeais";"0.4";"47.3333";"Touraine";"Tours";"Brigade";1;;;;;1;;4;;5
-243;"Langennerie";"‎45093";"Chevilly";"1.88333";"48.0333";"Orléanais";"Orléans";"Brigade";0;;;;;1;;4;;5
-244;"Langon";33227;"Langon";"-0.25";"44.55";"Guyenne";"Bordeaux";"Brigade";0;;;;;1;;4;;5
-245;"Langres";52269;"Langres";"5.33333";"47.8667";"Champagne";"Langres";"D. de la P. Générale";1;;;1;1;;1;8;;11
-246;"Laon";2408;"Laon";"3.61667";"49.5667";"Soissonnais";"Laon";"D. de la P. Générale";1;;;1;;;1;4;;6
-251;"Launoi";51367;"Le Mesnil-sur-Oger";"4.01667";"48.95";"Champagne";"Reims";"Brigade";0;;;;;1;;4;;5
-249;"Laval";53130;"Laval";"-0.766667";"48.0667";"Anjou";"Château-Gontier";"Brigade";1;;;;1;;;4;;5
-250;"Lavaur";81140;"Lavaur";"1.81667";"43.7";"Languedoc";"Toulouse";"Brigade";0;;;;;;1;4;;5
-252;"Le Blanc";36018;"Le Blanc";"1.06667";"46.6333";"Berry";"Bourges";"Brigade";0;;;;;;1;4;;5
-253;"Le Boulon";"Ancienne commune";"Le Boulon";"2.983044";"42.714608";"Roussillon";"Perpignan";"Brigade";1;;;;;1;;4;;5
-254;"Le Chêne";10095;"Le Chêne";"4.18333";"48.55";"Champagne";"Reims";"Brigade";1;;;;;;1;4;;5
-256;"Le Donjon";3103;"Le Donjon";"3.8";"46.35";"Bourbonnais";"Moulins";"Brigade";0;;;;;1;;4;;5
-257;"Le Mans";72181;"Le Mans";"0.2";48;"Maine";"Le Mans";"Brigade";1;;;1;1;;1;8;;11
-259;"Le Puy";43157;"Le Puy-en-Velay";"3.88583";"45.0442";"Languedoc";"Le Puy";"D. de la P. Générale";0;;;1;1;;1;8;;11
-255;"Lectoure";32208;"Lectoure";"0.616667";"43.9333";"Béarn";"Auch";"Brigade";0;;;;;1;;4;;5
-258;"Lens";62498;"Lens";"2.83333";"50.4333";"Artois";"Arras";"Brigade";1;;;;;1;;4;;5
-260;"Lesparre";33240;"Lesparre-Médoc";"-0.933333";"45.3";"Guyenne";"Bordeaux";"Brigade";0;;;;;1;;4;;5
-261;"Lihons";80481;"Lihons";"2.76667";"49.8167";"Rouen";"Rouen";"Brigade";0;;;;;;1;4;;5
-263;"Lille";59350;"Lille";"3.06667";"50.6333";"Flandres";"Lille";"P. Générale";1;1;;1;1;1;1;12;1;18
-262;"Lillers";62516;"Lillers";"2.48333";"50.5667";"Artois";"Arras";"Brigade";1;;;;;;1;4;;5
-264;"Limoges";87085;"Limoges";"1.25";"45.85";"Limousin";"Limoges";"P. Générale";1;1;;1;;1;1;8;1;13
-265;"Lipostey";40156;"Liposthey";"-0.883333";"44.3167";"Guyenne";"Bordeaux";"Brigade";1;;;;;;1;4;;5
-266;"Loches";37132;"Loches";1;"47.1333";"Touraine";"Tours";"Brigade";1;;;;;;1;4;;5
-267;"Lodeves";34142;"Lodève";"3.31667";"43.7167";"Languedoc";"Montpellier";"Brigade";0;;;;1;;;4;;5
-268;"Lombez";32213;"Lombez";"0.916667";"43.4833";"Béarn";"Auch";"Brigade";0;;;;;;1;4;;5
-269;"Longwy";54323;"Longwy";"5.76667";"49.5167";"Trois Evêchés";"Verdun";"Brigade";1;;;;;;1;4;;5
-270;"Lons-le-Saunier";39300;"Lons-le-Saunier";"5.55";"46.6667";"Bourgogne";"Lons-le-Saunier";"D. de la P. Générale";0;;;1;;;1;4;;6
-272;"Louans";37134;"Louans";"0.75";"47.1833";"Bourgogne";"Chalons";"Brigade";0;;;;;;1;4;;5
-271;"Loudun";86137;"Loudun";"0.066667";47;"Touraine";"Tours";"Brigade";0;;;;1;;;4;;5
-273;"Louvier";27375;"Louviers";"1.16667";"49.2167";"Rouen";"Rouen";"Brigade";0;;;;;1;;4;;5
-274;"Louvres";95351;"Louvres";"2.5";"49.0333";"Paris";"Senlis";"Brigade";1;;;;;1;;4;;5
-275;"Luçon";85128;"Luçon";"-1.16667";"46.45";"Poitou";"Fontenay le Comte";"Brigade";0;;;;;1;;4;;5
-276;"Luneville";54329;"Lunéville";"6.5";"48.6";"Lorraine";"Nancy";"Brigade";1;;;;1;;1;4;;6
-277;"Lure";70310;"Luré";"6.5";"47.6833";"Bourgogne";"Vezoul";"Brigade";1;;;;;1;;4;;5
-278;"Lusignan";86139;"Lusignan";"0.116667";"46.4333";"Poitou";"Poitiers";"Brigade";1;;;;;;1;4;;5
-279;"Lyon";69123;"Lyon";"4.84139";"45.7589";"Lyonnais";"Lyon";"P. Générale";1;1;;1;;1;1;8;1;13
-280;"Mâcon";71270;"Mâcon";"4.83333";"46.3";"Bourbonnais";"Mâcon";"D. de la P. Générale";1;;1;1;;1;;4;;7
-281;"Magny";2819;"Vincy-Reuil-et-Magny";"4.0594";"49.6623";"Rouen";"Rouen";"Brigade";1;;;;;;1;4;;5
-282;"Maintenon";28227;"Maintenon";"1.58333";"48.5833";"Orléanais";"Chartres";"Brigade";1;;;;;1;;4;;5
-283;"Mallemort";13053;"Mallemort";"5.18333";"43.7333";"Provence";"Aix";"Brigade";0;;;;;1;;4;;5
-284;"Manosque";4112;"Manosque";"5.78333";"43.8333";"Provence";"Digne";"Brigade";0;;;;;1;;4;;5
-285;"Mansle";16206;"Mansle";"0.183333";"45.8667";"Limousin";"Angoulême";"Brigade";0;;;;1;;;4;;5
-286;"Mantes";78361;"Mantes-la-Jolie";"1.71667";"48.9833";"Paris";"Mantes";"D. de la P. Générale";1;;;1;;1;;4;;6
-287;"Marans";17218;"Marans";-1;"46.3";"Aunix";"Rochelle";"Brigade";0;;;;;;1;4;;5
-288;"Marenne";17219;"Marennes";"-1.11667";"45.8167";"Aunix";"Saintes";"Brigade";0;;;;;1;;4;;5
-289;"Marmande";47157;"Marmande";"0.166667";"44.5";"Guyenne";"Agen";"Brigade";1;;;;;;1;4;;5
-291;"Marseille";13055;"Marseille";"5.37639";"43.2967";"Provence";"Aix";"Brigade";1;;;;1;;1;8;;10
-290;"Marseille";60387;"Marseille-en-Beauvaisis";"1.95";"49.5833";"Paris";"Beauvais";"Brigade";0;;;;;;1;4;;5
-292;"Maubert-Font...ne";8282;"Maubert-Fontaine";"4.43333";"49.8667";"Champagne";"Reims";"Brigade";0;;;;1;;;4;;5
-293;"Maubeuge";59392;"Maubeuge";"3.96667";"50.2833";"Hainaut";"Valenciennes";"Brigade";1;;;;1;;;4;;5
-294;"Mauriac";15120;"Mauriac";"2.33333";"45.2167";"Auvergne";"St Flour";"Brigade";0;;;;1;;;4;;5
-295;"Mauzé";79170;"Mauzé-sur-le-Mignon";"-0.666667";"46.2";"Aunix";"Rochelle";"Brigade";0;;;;;;1;4;;5
-296;"Mayenne";53147;"Mayenne";"-0.616667";"48.3";"Anjou";"Château-Gontier";"Brigade";1;;;;1;;;4;;5
-297;"Meaux";77284;"Meaux";"2.86667";"48.95";"Paris";"Meaux";"D. de la P. Générale";1;;;1;;1;;4;;6
-298;"Melun";77288;"Melun";"2.66667";"48.5333";"Paris";"Melun";"P. Générale";1;1;;1;1;1;;8;1;13
-299;"Mende";48095;"Mende";"3.5";"44.5167";"Languedoc";"Puy";"Brigade";0;;;;1;;;4;;5
-300;"Mesle";79174;"Mellé";"-0.133333";"46.2167";"Poitou";"Fontenay le Comte";"Brigade";1;;;;;1;;4;;5
-301;"Messac";17231;"Messac";"-0.316667";"45.35";"Limousin";"Tulles";"Brigade";0;;;;;1;;4;;5
-302;"Metz";57463;"Metz";"6.16667";"49.1333";"Trois Evêchés";"Metz";"P. Générale";1;1;;1;1;;1;8;1;13
-303;"Meulan";78401;"Meulan-en-Yvelines";"1.9";"49.0167";"Paris";"Mantes";"Brigade";1;;;;;;1;4;;5
-304;"Mézières";8105;"Charleville-Mézières";"4.71667";"49.7667";"Champagne";"Reims";"Brigade";1;;;;;1;;4;;5
-306;"Milhaud";30169;"Milhaud";"4.3";"43.7833";"Montauban";"Rhodez";"Brigade";0;;;;1;;;4;;5
-305;"Mirecourt";88304;"Mirecourt";"6.13333";"48.3";"Lorraine";"Epinal";"Brigade";0;;;;1;;1;4;;6
-316;"Mont de Marsan";40192;"Mont-de-Marsan";"-0.5";"43.8833";"Béarn";"Mont de Marsan";"D. de la P. Générale";0;;;1;;1;;4;;6
-325;"Mont-medi";55351;"Montmédy";"5.36667";"49.5167";"Trois Evêchés";"Verdun";"Brigade";1;;;;;;1;4;;5
-330;"Mont-rejau";31390;"Montréjeau";"0.583333";"43.0833";"Béarn";"Auch";"Brigade";0;;;;;;1;4;;5
-331;"Mont-reveau";49218;"Montrevault";"-1.05";"47.2667";"Anjou";"Angers";"Brigade";0;;;;;1;;4;;5
-309;"Montaigu";63233;"Montaigut";"2.80833";"46.1833";"Auvergne";"Riom";"Brigade";0;;;;;;1;4;;5
-308;"Montaigu";85146;"Montaigu";"-1.31667";"46.9833";"Poitou";"Montaigu";"D. de la P. Générale";0;;;1;;;1;4;;6
-310;"Montandre";17240;"Montendre";"-0.4";"45.2833";"Aunix";"Saintes";"Brigade";0;;;;;1;;4;;5
-311;"Montargis";45208;"Montargis";"2.75";48;"Orléanais";"Montargis";"D. de la P. Générale";1;;;1;1;;1;8;;11
-312;"Montauban";82121;"Montauban";"1.35";"44.0167";"Montauban";"Montauban";"P. Générale";1;1;;;1;1;;8;1;12
-313;"Montbar";21425;"Montbard";"4.33333";"47.6167";"Bourgogne";"Montbar";"D. de la P. Générale";0;;1;1;;1;;4;;7
-314;"Montbrison";42147;"Montbrison";"4.05";"45.6";"Lyonnais";"Montbrison";"D. de la P. Générale";0;;;1;;;1;4;;6
-315;"Montcornet";2502;"Montcornet";"4.01723";"49.6956";"Soissonnais";"Laon";"Brigade";0;;;;;;1;4;;5
-307;"Montdidier";80561;"Montdidier";"2.56667";"49.65";"Picardie";"Amiens";"Brigade";1;;;;;1;;4;;5
-317;"Montélimar";26198;"Montélimar";"4.75";"44.5667";"Dauphiné";"Valence";"Brigade";1;;;;1;;;4;;5
-318;"Montereau";45213;"Montereau";"2.56667";"47.85";"Paris";"Sens";"Brigade";0;;;;;1;;4;;5
-320;"Montfaucon";2505;"Montfaucon";"3.45";"48.95";"Champagne";"Challons";"Brigade";0;;;;;1;;4;;5
-319;"Montfort";"‎78420";"Montfort-l'Amaury";"1.81667";"48.7833";"Paris";"Mantes";"Brigade";0;;;;;;1;4;;5
-321;"Montierender";52331;"Montier-en-Der";"4.76667";"48.4833";"Champagne";"Troyes";"Brigade";1;;;;;;1;4;;5
-323;"Montluçon";3185;"Montluçon";"2.6";"46.3333";"Bourbonnais";"Moulins";"Brigade";0;;;;1;;;4;;5
-322;"Montluel";1262;"Montluel";"5.05";"45.85";"Bourgogne";"Bourg";"Brigade";1;;;;;;1;4;;5
-324;"Montmaraud";3186;"Montmarault";"2.95";"46.3167";"Bourbonnais";"Moulins";"Brigade";0;;;;;1;;4;;5
-326;"Montmirel";51380;"Montmirail";"3.53333";"48.8667";"Soissonnais";"Soissons";"Brigade";0;;;;;;1;4;;5
-327;"Montmorillon";86165;"Montmorillon";"0.866667";"46.4333";"Poitou";"Montmorillon";"D. de la P. Générale";0;;;1;1;;;4;;6
-328;"Montoire";41149;"Montoire-sur-le-Loir";"0.866667";"47.75";"Orléanais";"Blois";"Brigade";0;;;;;;1;4;;5
-329;"Montpellier";34172;"Montpellier";"3.88333";"43.6";"Languedoc";"Montpellier";"P. Générale";1;1;;1;1;1;1;12;1;18
-332;"Montreuil";27414;"Montreuil-l'Argillé";"0.483333";"48.9333";"Alençon";"Falaise";"Brigade";0;;;;1;;;4;;5
-333;"Montreuil";62588;"Montreuil";"1.76417";"50.4644";"Picardie";"Boulogne";"Brigade";1;;;;;;1;4;;5
-334;"Morlaix";29151;"Morlaix";"-3.83333";"48.5833";"Bretagne";"Quimper";"Brigade";1;;;;1;;;4;;5
-335;"Morley";55359;"Morley";"5.25";"48.5833";"Lorraine";"Bar le duc";"Brigade";0;;;;;1;;4;;5
-336;"Mortagne";61293;"Mortagne-au-Perche";"0.55";"48.5167";"Alençon";"Alençon";"Brigade";1;;;;1;;;4;;5
-337;"Mortain";50359;"Mortain";"-0.933333";"48.65";"Caen";"Caen";"Brigade";0;;;;;;1;4;;5
-338;"Moulins";3190;"Moulins";"3.33333";"46.5667";"Bourbonnais";"Moulins";"P. Générale";1;1;;1;;1;1;8;1;13
-339;"Mur de Barrez";"‎12164";"Mur-de-Barrez";"2.65";"44.85";"Montauban";"Rhodez";"Brigade";0;;;;1;;;4;;5
-340;"Murat";15138;"Murat";"2.86667";"45.1167";"Auvergne";"St Flour";"Brigade";0;;;;;;1;4;;5
-341;"Mussidan";24299;"Mussidan";"0.366667";"45.0333";"Guyenne";"Perigueux";"Brigade";0;;;;;1;;4;;5
-342;"Nancy";54395;"Nancy";"6.2";"48.6833";"Lorraine";"Nancy";"P. Générale";1;1;;1;1;1;;8;1;13
-343;"Nangis";77327;"Nangis";3;"48.55";"Paris";"Provins";"Brigade";1;;;;;1;;4;;5
-344;"Nantes";44109;"Nantes";"-1.55";"47.2167";"Bretagne";"Nantes";"D. de la P. Générale";1;;;1;1;;;4;;6
-345;"Narbonne";11262;"Narbonne";3;"43.1833";"Languedoc";"Carcassonne";"Brigade";1;;;;1;;;4;;5
-346;"Neaufle";27426;"Neaufles-Saint-Martin";"1.73333";"49.2833";"Paris";"Mantes";"Brigade";1;;;;1;;;4;;5
-347;"Nemours";77333;"Nemours";"2.7";"48.2667";"Paris";"Melun";"Brigade";1;;;;1;;;4;;5
-348;"Nerac";47195;"Nérac";"0.35";"44.1333";"Guyenne";"Agen";"Brigade";0;;;;1;;;4;;5
-349;"Neufchateau";88321;"Neufchâteau";"5.7";"48.35";"Lorraine";"Bar le duc";"Brigade";1;;;;1;;1;4;;6
-350;"Neufchatel";76462;"Neufchâtel-en-Bray";"1.45";"49.7333";"Rouen";"Rouen";"Brigade";0;;;;;1;;4;;5
-351;"Nevers";58194;"Nevers";"3.16667";"46.9833";"Bourbonnais";"Nevers";"D. de la P. Générale";1;;;1;1;;;4;;6
-353;"Nîmes";30189;"Nîmes";"4.35";"43.8333";"Languedoc";"Montpellier";"Brigade";1;;;;1;;1;8;;10
-352;"Nions";26220;"Nyons";"5.13333";"44.3667";"Dauphiné";"Gap";"Brigade";0;;;;1;;;4;;5
-354;"Niort";79191;"Niort";"-0.466667";"46.3167";"Poitou";"Fontenay le Comte";"Brigade";1;;;;1;;;4;;5
-355;"Nogaro";32296;"Nogaro";"-0.033333";"43.7667";"Béarn";"Mont de Marsan";"Brigade";0;;;;;;1;4;;5
-356;"Nogent";10268;"Nogent-sur-Seine";"3.5046";"48.4365";"Paris";"Provins";"Brigade";1;;;;1;;;4;;5
-357;"Nontron";24311;"Nontron";"0.666667";"45.5333";"Guyenne";"Perigueux";"Brigade";0;;;;;;1;4;;5
-358;"Noyers";89279;"Noyers";4;"47.7";"Bourgogne";"Auxerre";"Brigade";0;;;;;;1;4;;5
-359;"Noyon";60471;"Noyon";3;"49.5833";"Soissonnais";"Soissons";"Brigade";1;;;;1;;;4;;5
-360;"Nozai";44113;"Nozay";"-1.63333";"47.5667";"Bretagne";"Nantes";"Brigade";1;;;;;;1;4;;5
-361;"Oléron";64422;"Oloron-Sainte-Marie";"-0.6";"43.2";"Béarn";"Pau";"Brigade";0;;;;;1;;4;;5
-362;"Orange";84087;"Orange";"4.8";"44.1333";"Dauphiné";"Valence";"Brigade";0;;;;1;;;4;;5
-363;"Orléans";45234;"Orléans";"1.9";"47.9167";"Orléanais";"Orléans";"P. Générale";1;1;;2;1;1;1;12;1;19
-364;"Ouchi le Chateau";"‎02210";"Condé-sur-Aisne";"3.45";"49.4";"Soissonnais";"Soissons";"Brigade";0;;;;;;1;4;;5
-365;"Paluau";"‎85169";"Palluau";"-1.61667";"46.8";"Poitou";"Montaigu";"Brigade";0;;;;;;1;4;;5
-366;"Pamiers";9225;"Pamiers";"1.6";"43.1167";"Roussillon";"Pamiers";"D. de la P. Générale";0;;;1;;;1;4;;6
-367;"Paris";75056;"Paris";"2.34445";"48.86";"Ile-de-France";"Paris";"P. Générale";1;1;;1;4;;;11;1;18
-368;"Partenay";"‎79202";"Parthenay";"-0.25";"46.65";"Poitou";"Poitiers";"Brigade";0;;;;;;1;4;;5
-369;"Passy";"Ancienne commune";"Passy";"2.2852";"48.8005";"Ile-de-France";"Paris";"Brigade";0;;;;1;;;4;;5
-370;"Pau";64445;"Pau";"-0.366667";"43.3";"Béarn";"Pau";"P. Générale";0;1;;1;1;;1;8;1;13
-371;"Périgueux";24322;"Périgueux";"0.716667";"45.1833";"Guyenne";"Périgueux";"D. de la P. Générale";0;;;1;;1;;4;;6
-372;"Péronne";80620;"Péronne";"2.93333";"49.9333";"Picardie";"Amiens";"Brigade";1;;;;1;;;4;;5
-373;"Perpignan";66136;"Perpignan";"2.88333";"42.6833";"Roussillon";"Perpignan";"P. Générale";1;1;;1;;1;1;8;1;13
-374;"Pezenas";34199;"Pézenas";"3.41667";"43.45";"Languedoc";"Montpellier";"Brigade";1;;;;;;1;4;;5
-375;"Phalzbourg";57540;"Phalsbourg";"7.26667";"48.7667";"Trois Evêchés";"Metz";"Brigade";1;;;;;1;;4;;5
-376;"Philippeville";"Belgique";"Philippeville";"4.5319";"50.1285";"Hainaut";"Valenciennes";"Brigade";1;;;;1;;;4;;5
-377;"Pierre-Bussier";87119;"Pierre-Buffière";"1.35";"45.7";"Limousin";"Limoges";"Brigade";1;;;;;;1;4;;5
-378;"Pithiviers";45252;"Pithiviers";"2.25";"48.1667";"Orléanais";"Orléans";"Brigade";0;;;;1;;;4;;5
-379;"Ploermel";56165;"Ploërmel";"-2.4";"47.9333";"Bretagne";"Vannes";"Brigade";0;;;;;1;;4;;5
-380;"Poitiers";86194;"Poitiers";"0.333333";"46.5833";"Poitou";"Poitiers";"P. Générale";1;1;;1;1;;1;8;1;13
-381;"Poix";80630;"Poix-de-Picardie";"1.98417";"49.7759";"Picardie";"Abbeville";"Brigade";0;;;;;1;;4;;5
-382;"Poligny";39434;"Poligny";"5.71667";"46.8333";"Bourbonnais";"Lons les Saunier";"Brigade";0;;;;1;;;4;;5
-387;"Pont de Beauvoisin";38315;"Le Pont-de-Beauvoisin";"5.66667";"45.5333";"Dauphiné";"Grenoble";"Brigade";1;;;;;1;;4;;5
-385;"Pont-Audenier";27467;"Pont-Audemer";"0.516667";"49.35";"Rouen";"Caudebec";"Brigade";1;;;;;1;;4;;5
-383;"Pontamousson";"‎54431";"Pont-à-Mousson";"6.06667";"48.9";"Lorraine";"Nancy";"Brigade";1;;;;;1;;4;;5
-384;"Pontarlier";25462;"Pontarlier";"6.36667";"46.9";"Bourgogne";"Besançon";"Brigade";0;;;;;;1;4;;5
-386;"Pontchateau";44129;"Pontchâteau";"-2.08333";"47.4333";"Bretagne";"Nantes";"Brigade";0;;;;;;1;4;;5
-388;"Pontivi";"‎56178";"Pontivy";"-2.98333";"48.0667";"Bretagne";"Vannes";"Brigade";0;;;;;;1;4;;5
-389;"Pontlévêque";14514;"Pont-l'Évêque";"0.183333";"49.3";"Rouen";"Caudebec";"Brigade";1;;;;;1;;4;;5
-390;"Pontoise";95500;"Pontoise";"2.1";"49.05";"Paris";"Beauvais";"Brigade";1;;;;;1;;4;;5
-391;"Prades";66149;"Prades";"2.43333";"42.6167";"Roussillon";"Perpignan";"Brigade";1;;;;1;;;4;;5
-392;"Preuilli";37189;"Preuilly-sur-Claise";"0.933333";"46.85";"Touraine";"Tours";"Brigade";0;;;;;;1;4;;5
-393;"Prezenpail";53185;"Pré-en-Pail";"-0.2";"48.45";"Maine";"Le Mans";"Brigade";1;;;;;;1;4;;5
-394;"Privas";7186;"Privas";"4.6";"44.7333";"Languedoc";"Puy";"Brigade";0;;;;;1;;4;;5
-395;"Prothy";52405;"Prauthoy";"5.28333";"47.6667";"Champagne";"Langres";"Brigade";1;;;;;;1;4;;5
-396;"Provins";77379;"Provins";"3.3";"48.55";"Paris";"Provins";"D. de la P. Générale";1;;;1;;;1;4;;6
-397;"Quimper";29232;"Quimper";"-4.1";48;"Bretagne";"Quimper";"D. de la P. Générale";0;;;1;;;1;4;;6
-398;"Quimperlai";29233;"Quimperlé";"-3.55";"47.8667";"Bretagne";"Vannes";"Brigade";0;;;;;1;;4;;5
-399;"Quintin";22262;"Quintin";"-2.91667";"48.4";"Bretagne";"Rennes";"Brigade";0;;;;;;1;4;;5
-400;"Rambervillers";88367;"Rambervillers";"6.63333";"48.35";"Lorraine";"Epinal";"Brigade";0;;;;;1;;4;;5
-401;"Redon";35236;"Redon";"-2.08333";"47.65";"Bretagne";"Nancy";"Brigade";0;;;;;1;;4;;5
-408;"Reims";51454;"Reims";"4.03333";"49.25";"Champagne";"Reims";"D. de la P. Générale";1;;;1;1;;1;8;;11
-402;"Reling";"Allemagne";"Reling";"6.6797";"49.3206";"Lorraine";"Sarguemine";"Brigade";0;;;;1;;1;4;;6
-403;"Remalard";61345;"Rémalard";"0.783333";"48.4333";"Alençon";"Alençon";"Brigade";1;;;;;;1;4;;5
-404;"Remiremont";88383;"Remiremont";"6.58333";"48.0167";"Lorraine";"Epinal";"Brigade";1;;;;;1;;4;;5
-405;"Remoulin";30212;"Remoulins";"4.56667";"43.9333";"Languedoc";"Montpellier";"Brigade";1;;;;;;1;4;;5
-406;"Rennes";35238;"Rennes";"-1.68333";"48.0833";"Bretagne";"Rennes";"P. Générale";1;1;;2;1;1;1;12;1;19
-407;"Rethel";8362;"Rethel";"4.36667";"49.5167";"Champagne";"Reims";"Brigade";1;;;;1;;;4;;5
-409;"Rhodez";"‎12202";"Rodez";"2.56667";"44.3333";"Montauban";"Rhodez";"D. de la P. Générale";0;;;1;;1;1;8;;11
-410;"Riom";63300;"Riom";"3.11667";"45.9";"Auvergne";"Riom";"D. de la P. Générale";1;;;1;1;;;4;;6
-411;"Roane";"‎42187";"Roanne";"4.06889";"46.0367";"Lyonnais";"Roane";"D. de la P. Générale";1;;;1;;;1;4;;6
-412;"Rochefort";17299;"Rochefort";"-0.983333";"45.9333";"Aunix";"Rochelle";"Brigade";0;;;;1;;;4;;5
-413;"Romorantin";41194;"Romorantin-Lanthenay";"1.74361";"47.3589";"Orléanais";"Blois";"Brigade";1;;;;;;1;4;;5
-414;"Rouen";76540;"Rouen";"1.08333";"49.4333";"Rouen";"Rouen";"P. Générale";1;1;;1;1;1;1;12;1;18
-415;"Roye";80685;"Roye";"2.8";"49.7";"Picardie";"Amiens";"Brigade";1;;;;;1;;4;;5
-416;"Ruffec";16292;"Ruffec";"0.2";"46.0167";"Limousin";"Angoulême";"Brigade";0;;;;1;;;4;;5
-417;"Sablé";72264;"Sablé-sur-Sarthe";"-0.333333";"47.8333";"Anjou";"Château-Gontier";"Brigade";1;;;;;1;;4;;5
-418;"Sables d’Olone";85194;"Sables-d'Olonne";"-1.78333";"46.5";"Poitou";"Montaigu";"Brigade";0;;;;;1;;4;;5
-438;"Saintes";17415;"Saintes";"-0.633333";"45.75";"Aunix";"Saintes";"D. de la P. Générale";0;;;1;;1;;4;;6
-470;"Salins";15220;"Salins";"2.4";"45.2";"Bourgogne";"Lons-le-Saunier";"Brigade";0;;;;;1;;4;;5
-471;"Sancerre";18241;"Sancerre";"2.83333";"47.3333";"Berry";"Bourges";"Brigade";0;;;;;1;;4;;5
-472;"Sancy";54491;"Sancy";"5.925";"49.3475";"Lorraine";"Bar le duc";"Brigade";0;;;;;1;;4;;5
-476;"Sar Louis";"Allemagne";"Sar Louis";"6.7511";"49.2606";"Trois Evêchés";"Metz";"Brigade";1;;;;;;1;4;;5
-473;"Sarbourb";"‎57630";"Sarrebourg";"7.05";"48.7333";"Trois Evêchés";"Metz";"Brigade";1;;;;1;;;4;;5
-474;"Sarguemine";"‎57631";"Sarreguemines";"7.05";"49.1";"Lorraine";"Sarguemine";"D. de la P. Générale";0;;;1;;;1;4;;6
-475;"Sarlat";24520;"Sarlat-la-Canéda";"1.21667";"44.8833";"Guyenne";"Perigueux";"Brigade";0;;;;1;;;4;;5
-478;"Saulieu";21584;"Saulieu";"4.23333";"47.2667";"Bourgogne";"Auxerre";"Brigade";0;;;;;;1;4;;5
-479;"Saumur";49328;"Saumur";"-0.083333";"47.2667";"Anjou";"Angers";"Brigade";1;;;;1;1;;8;;10
-480;"Sauveterre";33506;"Sauveterre-de-Guyenne";"-0.083333";"44.7";"Guyenne";"Bordeaux";"Brigade";0;;;;;1;;4;;5
-477;"Saverne";67437;"Saverne";"7.36667";"48.7333";"Alsace";"Strasbourg";"Brigade";1;;;;;1;;3;;4
-419;"Schlestat";67462;"Sélestat";"7.45";"48.2667";"Alsace";"Colmar";"Brigade";1;;;;;;1;3;;4
-481;"Sedan";8409;"Sedan";"4.95";"49.7";"Trois Evêchés";"Verdun";"Brigade";1;;;;1;;;4;;5
-482;"Ségrais";49331;"Segré";"-0.866667";"47.6833";"Anjou";"Château-Gontier";"Brigade";0;;;;;1;;4;;5
-483;"Senlis";60612;"Senlis";"2.58333";"49.2";"Paris";"Senlis";"D. de la P. Générale";1;;;1;;1;;4;;6
-484;"Sens";89387;"Sens";"3.28389";"48.1981";"Paris";"Sens";"D. de la P. Générale";1;;;1;1;;;4;;6
-485;"Seurre";21607;"Seurre";"5.15";47;"Bourgogne";"Chalons";"Brigade";0;;;;;;1;4;;5
-486;"Sèvre";92072;"Sèvres";"2.2";"48.8167";"Ile-de-France";"Paris";"Brigade";0;;;1;;;;6;;7
-487;"Sézanne";51535;"Sézanne";"3.71667";"48.7167";"Champagne";"Challons";"Brigade";0;;;;1;;;4;;5
-488;"Sigean";11379;"Sigean";"2.98333";"43.0333";"Languedoc";"Carcassonne";"Brigade";1;;;;;1;;4;;5
-489;"Sillé le Guillaume";"‎72334";"Sillé-le-Guillaume";"-0.133333";"48.2";"Maine";"Le Mans";"Brigade";0;;;;;1;;4;;5
-490;"Sisteron";4209;"Sisteron";"5.93333";"44.2";"Provence";"Digne";"Brigade";0;;;;;;1;4;;5
-491;"Sivrai";86078;"Civray";"0.3";"46.15";"Poitou";"Montmorillon";"Brigade";0;;;;;1;;4;;5
-492;"Soissons";2722;"Soissons";"3.33333";"49.3667";"Soissonnais";"Soissons";"P. Générale";1;1;;1;1;;1;8;1;13
-493;"Sommiere";30321;"Sommières";"4.08333";"43.7833";"Languedoc";"Montpellier";"Brigade";0;;;;;;1;4;;5
-494;"Souillac";46309;"Souillac";"1.48333";"44.9";"Montauban";"Cahors";"Brigade";1;;;;;1;;4;;5
-420;"St Amand";18197;"Saint-Amand-Montrond";"2.50555";"46.7236";"Berry";"Bourges";"Brigade";0;;;;;1;;4;;5
-421;"St Amand";59526;"Saint-Amand-les-Eaux";"3.43333";"50.4333";"Flandres";"Cambrai";"Brigade";1;;;;;1;;4;;5
-424;"St Anduel";69179;"Saint-Andéol-le-Château";"4.6967";"45.5256";"Lyonnais";"Lyon";"Brigade";0;;;;;1;;4;;5
-422;"St Aubin";55454;"Saint-Aubin-sur-Aire";"5.45";"48.7";"Lorraine";"Bar le duc";"Brigade";1;;;;;1;;4;;5
-423;"St Avold";57606;"Saint-Avold";"6.7";"49.1";"Lorraine";"Sarguemine";"Brigade";0;;;;;1;;4;;5
-425;"St Benoit";36182;"Saint-Benoît-du-Sault";"1.4";"46.45";"Berry";"Bourges";"Brigade";0;;;;;1;;4;;5
-426;"St Bonnet";16303;"Saint-Bonnet";"-0.1";"45.4833";"Lyonnais";"Montbrison";"Brigade";0;;;;;1;;4;;5
-427;"St Brieux";22278;"Saint-Brieuc";"-2.78333";"48.5167";"Bretagne";"Rennes";"Brigade";1;;;;1;;;4;;5
-428;"St Calais";72269;"Saint-Calais";"0.75";"47.9167";"Maine";"Le Mans";"Brigade";0;;;;;;1;4;;5
-465;"St Céré";46251;"Saint-Céré";"1.9";"44.8667";"Montauban";"Cahors";"Brigade";0;;;;;1;;4;;5
-429;"St Claude";39478;"Saint-Claude";"5.86667";"46.3833";"Bourgogne";"Lons-le-Saunier";"Brigade";1;;;;1;;;4;;5
-430;"St Denis";93066;"Saint-Denis";"2.35833";"48.9333";"Ile-de-France";"Paris";"Brigade";1;;;1;;;;4;;5
-431;"St Die";88413;"Saint-Dié-des-Vosges";"6.95";"48.2833";"Lorraine";"Epinal";"Brigade";0;;;;1;;1;4;;6
-432;"St Dizier";52448;"Saint-Dizier";"4.95";"48.6333";"Champagne";"Challons";"Brigade";1;;;;1;;;4;;5
-433;"St Esprit";34245;"Saint-Chinian";"2.9471";"43.3611";"Languedoc";"Montpellier";"Brigade";1;;;;;;1;4;;5
-434;"St Etienne";42218;"Saint-Étienne";"4.4";"45.4333";"Lyonnais";"Montbrison";"Brigade";0;;;;1;;;4;;5
-435;"St Fargeau";89344;"Saint-Fargeau";"3.06667";"47.6333";"Orléanais";"Montargis";"Brigade";0;;;;1;;;4;;5
-436;"St Florentin";89345;"Saint-Florentin";"3.73333";48;"Paris";"Tonnerre";"Brigade";0;;;;1;;;4;;5
-437;"St Flour";15187;"Saint-Flour";"3.09278";"45.0337";"Auvergne";"St Flour";"D. de la P. Générale";1;;;1;1;;;4;;6
-440;"St Genis";69203;"Saint-Genis-l'Argentière";"4.4934";"45.6505";"Aunix";"Saintes";"Brigade";0;;;;;;1;4;;5
-442;"St Germain";78551;"Saint-Germain-en-Laye";"2.08333";"48.9";"Ile-de-France";"Paris";"Brigade";1;;;;1;;;4;;5
-441;"St Giron";9261;"Saint-Girons";"1.15";"42.9833";"Béarn";"Auch";"Brigade";0;;;;;1;;4;;5
-443;"St Jean d’Angely";17347;"Saint-Jean-d'Angély";"-0.516667";"45.95";"Aunix";"Rochelle";"Brigade";0;;;;1;;;4;;5
-444;"St Jean de Porc";64485;"Saint-Jean-Pied-de-Port";"-1.23333";"43.1667";"Béarn";"Pau";"Brigade";0;;;;;;1;4;;5
-445;"St Julien";1368;"Saint-Julien-sur-Veyle";"4.95";"46.2";"Bourgogne";"Bourg";"Brigade";0;;;;;;1;4;;5
-446;"St Junien";87154;"Saint-Junien";"0.9";"45.8833";"Limousin";"Limoges";"Brigade";0;;;;;;1;4;;5
-447;"St Laurent";"‎37054";"Chanceaux-sur-Choisille";"0.7";"47.4667";"Orléanais";"Orléans";"Brigade";1;;;;;;1;4;;5
-448;"St Léonard";87161;"Saint-Léonard-de-Noblat";"1.48333";"45.8333";"Limousin";"Limoges";"Brigade";0;;;;;;1;4;;5
-449;"St Lo";50502;"Saint-Lô";"-1.08333";"49.1167";"Caen";"Coutances";"Brigade";1;;;;;1;;4;;5
-450;"St Maixent";"‎79270";"Saint-Maixent-l'École";"-0.2";"46.4167";"Poitou";"Poitiers";"Brigade";1;;;;;1;;4;;5
-451;"St Mammert";69224;"Saint-Mamert";"4.58333";"46.25";"Auvergne";"St Flour";"Brigade";0;;;;;1;;4;;5
-452;"St Marcellin";38416;"Saint-Marcellin";"5.31667";"45.15";"Dauphiné";"Grenoble";"Brigade";1;;;;;;1;4;;5
-454;"St Martin";21561;"Saint-Martin-du-Mont";"4.78639";"47.4331";"Bourgogne";"Bessey";"Brigade";1;;;;;;1;4;;5
-456;"St Mihiel";55463;"Saint-Mihiel";"5.55";"48.9";"Lorraine";"Bar le duc";"Brigade";0;;;;;1;;4;;5
-458;"St Omer";62765;"Saint-Omer";"2.25";"50.75";"Picardie";"Arras";"Brigade";1;;;;1;;;4;;5
-459;"St Pierre Le mo";58264;"Saint-Pierre-le-Moûtier";"3.11667";"46.8";"Bourbonnais";"Nevers";"Brigade";1;;;;;;1;4;;5
-460;"St Pol";62767;"Saint-Pol-sur-Ternoise";"2.33333";"50.3833";"Picardie";"Arras";"Brigade";1;;;;;1;;4;;5
-461;"St Pons";34284;"Saint-Pons-de-Thomières";"2.76028";"43.4887";"Languedoc";"Carcassonne";"Brigade";0;;;;;1;;4;;5
-462;"St Quentin";2691;"Saint-Quentin";"3.28333";"49.85";"Picardie";"Amiens";"Brigade";1;;;;1;;;4;;5
-463;"St Romain";"‎76647";"Saint-Romain-de-Colbosc";"0.366667";"49.5333";"Rouen";"Caudebec";"Brigade";0;;;;1;;;4;;5
-464;"St Sauge";58267;"Saint-Saulge";"3.5";"47.1";"Bourbonnais";"Nevers";"Brigade";0;;;;;;1;4;;5
-466;"St Sévère";40282;"Saint-Sever";"-0.566667";"43.7667";"Béarn";"Mont de Marsan";"Brigade";0;;;;;1;;4;;5
-467;"St Simphorien";"‎42289";"Saint-Symphorien-de-Lay";"4.21667";"45.95";"Lyonnais";"Roane";"Brigade";1;;;;;1;;4;;5
-468;"St Valery";80721;"Saint-Valery-sur-Somme";"1.63333";"50.1833";"Picardie";"Abbeville";"Brigade";1;;;;;;1;4;;5
-469;"St Vallier";26333;"Saint-Vallier";"4.81667";"45.1667";"Dauphiné";"Valence";"Brigade";1;;;;;1;;4;;5
-439;"Ste Foy";33402;"Sainte-Foy-la-Grande";"0.216667";"44.8333";"Guyenne";"Perigueux";"Brigade";0;;;;;;1;4;;5
-453;"Ste Marie aux mines";68298;"Sainte-Marie-aux-Mines";"7.18333";"48.25";"Lorraine";"Epinal";"Brigade";0;;;;;1;;4;;5
-455;"Ste Menehould";51507;"Sainte-Menehould";"4.9";"49.0833";"Champagne";"Challons";"Brigade";1;;;;1;;1;4;;6
-457;"Ste More";37226;"Sainte-Maure-de-Touraine";"0.616667";"47.1";"Touraine";"Tours";"Brigade";0;;;;;1;;4;;5
-495;"Strasbourg";67482;"Strasbourg";"7.75";"48.5833";"Alsace";"Strasbourg";"P. Générale";1;1;;1;1;;;8;1;12
-496;"Tarare";69243;"Tarare";"4.43333";"45.9";"Lyonnais";"Roane";"Brigade";1;;;;;;1;4;;5
-499;"Tarascon";9306;"Tarascon-sur-Ariège";"1.6";"42.85";"Roussillon";"Pamiers";"Brigade";0;;;;1;;;4;;5
-498;"Tarascon";13108;"Tarascon";"4.66667";"43.8";"Provence";"Aix";"Brigade";0;;;;;;1;4;;5
-497;"Tarbes";65440;"Tarbes";"0.083333";"43.2333";"Béarn";"Pau";"Brigade";0;;;;;;1;4;;5
-500;"Tauve";63426;"Tauves";"2.63333";"45.5667";"Auvergne";"Riom";"Brigade";0;;;;;1;;4;;5
-502;"Thiberville";27629;"Thiberville";"0.45";"49.1333";"Alençon";"Falaise";"Brigade";0;;;;;1;;4;;5
-503;"Thiers";63430;"Thiers";"3.56667";"45.85";"Auvergne";"Riom";"Brigade";1;;;;;1;;4;;5
-504;"Thionville";57672;"Thionville";"6.16667";"49.3667";"Trois Evêchés";"Metz";"Brigade";1;;;;;1;;4;;5
-505;"Thisy";69248;"Thizy";"4.31667";"46.0333";"Lyonnais";"Roane";"Brigade";0;;;;;;1;4;;5
-506;"Thouars";79329;"Thouars";"-0.216667";"46.9667";"Poitou";"Poitiers";"Brigade";0;;;;1;;;4;;5
-507;"Thoury";41260;"Thoury";"1.6";"47.6333";"Orléanais";"Orléans";"Brigade";1;;;;1;;;4;;5
-501;"Tiaucourt";"‎54518";"Thiaucourt-Regniéville";"5.86612";"48.9542";"Lorraine";"Nancy";"Brigade";0;;;;;1;;4;;5
-508;"Tonnerre";89418;"Tonnerre";"3.96667";"47.85";"Paris";"Tonnerre";"D. de la P. Générale";0;;;1;;1;;4;;6
-509;"Toste";"‎27340";"Honguemare-Guenouville";"0.816667";"49.3667";"Rouen";"Rouen";"Brigade";1;;;;;;1;4;;5
-510;"Touarcé";"‎49345";"Thouarcé";"-0.5";"47.2667";"Anjou";"Angers";"Brigade";0;;;;;;1;4;;5
-511;"Toul";54528;"Toul";"5.9";"48.6833";"Trois Evêchés";"Verdun";"Brigade";1;;;;1;;;4;;5
-512;"Toulon";71542;"Toulon-sur-Arroux";"4.13333";"46.6833";"Bourgogne";"Charolles";"Brigade";0;;;;;;1;4;;5
-513;"Toulon";83137;"Toulon";"5.93333";"43.1167";"Provence";"Aix";"Brigade";1;;;;;;1;4;;5
-514;"Toulouse";31555;"Toulouse";"1.43333";"43.6";"Languedoc";"Toulouse";"D. de la P. Générale";1;;;1;;1;1;8;;11
-515;"Tournon";7324;"Tournon-sur-Rhône";"3.109";"44.871";"Languedoc";"Puy";"Brigade";0;;;;1;;;4;;5
-516;"Tournus";71543;"Tournus";"4.9";"46.5667";"Bourgogne";"Mâcon";"Brigade";1;;;;;;1;4;;5
-517;"Tours";37261;"Tours";"0.683333";"47.3833";"Touraine";"Tours";"D. de la P. Générale";1;;;2;1;1;1;12;;17
-518;"Troyes";10387;"Troyes";"4.08333";"48.3";"Champagne";"Troyes";"D. de la P. Générale";1;;;1;1;1;;8;;11
-519;"Tulles";"‎19272";"Tulle";"1.76667";"45.2667";"Limousin";"Tulles";"D. de la P. Générale";1;;;1;;1;;4;;6
-547;"Ussel";"‎19275";"Ussel";"2.31667";"45.55";"Limousin";"Tulles";"Brigade";0;;;;;1;;4;;5
-548;"Uzerche";"‎19276";"Uzerche";"1.56667";"45.4167";"Limousin";"Tulles";"Brigade";1;;;;;1;;4;;5
-520;"Vabres";15245;"Vabres";"3.208";"44.9745";"Montauban";"Rhodez";"Brigade";0;;;;1;;;4;;5
-521;"Valence";26362;"Valence";"4.9";"44.9333";"Dauphiné";"Valence";"D. de la P. Générale";1;;;1;;;1;4;;6
-522;"Valenciennes";59606;"Valenciennes";"3.53333";"50.35";"Hainaut";"Valenciennes";"P. Générale";1;1;;1;;1;1;8;1;13
-523;"Valognes";50615;"Valognes";"-1.46667";"49.5167";"Caen";"Coutances";"Brigade";1;;;;;1;;4;;5
-524;"Vannes";56260;"Vannes";"-2.75";"47.6667";"Bretagne";"Vannes";"D. de la P. Générale";1;;;1;1;;;4;;6
-525;"Varennes";3298;"Varennes-sur-Allier";"3.4";"46.3167";"Bourbonnais";"Moulins";"Brigade";1;;;;;;1;4;;5
-526;"Vaucouleurs";55533;"Vaucouleurs";"5.66667";"48.6";"Champagne";"Langres";"Brigade";0;;;;;;1;4;;5
-527;"Vendôme";41269;"Vendôme";"1.06667";"47.8";"Orléanais";"Blois";"Brigade";0;;;;;1;;4;;5
-528;"Verdun";55545;"Verdun";"5.38278";"49.1598";"Trois Evêchés";"Verdun";"D. de la P. Générale";1;;;1;;1;;4;;6
-530;"Vezelay";89446;"Vézelay";"3.73333";"47.4667";"Paris";"Tonnerre";"Brigade";0;;;;1;;;4;;5
-531;"Vezoul";70550;"Vesoul";"6.16667";"47.6333";"Bourgogne";"Vezoul";"D. de la P. Générale";1;;;1;;;1;4;;6
-532;"Vic";57712;"Vic-sur-Seille";"6.53333";"48.7833";"Trois Evêchés";"Metz";"Brigade";0;;;;1;;1;8;;10
-533;"Vienne";38544;"Vienne";"4.86667";"45.5167";"Dauphiné";"Grenoble";"Brigade";1;;;;1;;;4;;5
-534;"Vierzon";18279;"Vierzon";"2.08333";"47.2167";"Berry";"Bourges";"Brigade";0;;;;;;1;4;;5
-535;"Ville Dieu";50639;"Villedieu-les-Poêles";"-1.21667";"48.8333";"Caen";"Coutances";"Brigade";1;;;;;1;;4;;5
-537;"Villefranche";"‎12300";"Villefranche-de-Rouergue";"2.05";"44.35";"Montauban";"Rhodez";"Brigade";0;;;;;;2;8;;10
-536;"Villefranche";"‎69264";"Villefranche-sur-Saône";"4.71667";"45.9833";"Lyonnais";"Lyon";"Brigade";1;;;;1;;;4;;5
-538;"Villejuif";94076;"Villejuif";"2.36667";"48.8";"Ile-de-France";"Paris";"Brigade";1;;;;1;;;4;;5
-539;"Villequiers";18286;"Villequiers";"2.8";"47.0667";"Berry";"Bourges";"Brigade";0;;;;;;1;4;;5
-540;"Villereal";47324;"Villeréal";"0.75";"44.6333";"Guyenne";"Agen";"Brigade";0;;;;;1;;4;;5
-541;"Villers coterets";2810;"Villers-Cotterêts";"3.08333";"49.25";"Soissonnais";"Soissons";"Brigade";1;;;;1;;;4;;5
-542;"Vire";14762;"Vire";"-0.883333";"48.8333";"Caen";"Caen";"Brigade";0;;;;1;;;4;;5
-543;"Vissembourg";67544;"Wissembourg";"7.95";"49.0333";"Alsace";"Strasbourg";"Brigade";1;;;;1;;;4;;5
-545;"Vitrey";54587;"Vitrey";"6.05";"48.4833";"Bretagne";"Rennes";"Brigade";1;;;;;1;;4;;5
-546;"Vitry";51649;"Vitry-le-François";"4.58333";"48.7333";"Champagne";"Challons";"Brigade";1;;;;1;;;4;;5
-544;"Vitteaux";21710;"Vitteaux";"4.53333";"47.4";"Bourgogne";"Dijon";"Brigade";1;;;;;;1;4;;5
+"id","ville","code","ville_redressee","long","lat","province","departement","type","poste","PG","PP","L","E","B","SB","C","T","total"
+1,"Abbeville",80001,"Abbeville","1.83333","50.1","Picardie","Abbeville","D. de la P. Générale",1,,,1,1,,1,8,,11
+2,"Agen",47001,"Agen","0.633333","44.2","Guyenne","Agen","D. de la P. Générale",1,,,1,,,1,4,,6
+3,"Airaines",80013,"Airaines","1.95","49.9667","Picardie","Abbeville","Brigade",0,,,,,1,,4,,5
+4,"Aix",13001,"Aix-en-Provence","5.43333","43.5333","Provence","Aix","P. Générale",1,1,,1,1,,1,8,1,13
+5,"Alais",30007,"Alès","4.08333","44.1333","Languedoc","Montpellier","Brigade",0,,,,1,,,4,,5
+6,"Albert",80016,"Albert","2.65",50,"Picardie","Amiens","Brigade",0,,,,,,1,4,,5
+7,"Alby","‎81004","Albi","2.15","43.9333","Languedoc","Toulouse","Brigade",0,,,,1,,,4,,5
+8,"Alençon",61001,"Alençon","0.083333","48.4333","Alençon","Alençon","P. Générale",1,1,,1,,1,1,4,1,9
+9,"Alt-Kirch",68004,"Altkirch","7.25","47.6167","Alsace","Colmar","Brigade",1,,,,,,1,4,,5
+10,"Ambert",63003,"Ambert","3.75","45.55","Auvergne","Riom","Brigade",0,,,,1,,,4,,5
+11,"Amboise",37003,"Amboise","0.983333","47.4167","Touraine","Tours","Brigade",1,,,,1,,1,4,,6
+12,"Amiens",80021,"Amiens","2.3","49.9","Picardie","Amiens","P. Générale",1,1,,1,1,,1,8,1,13
+13,"Ancenis",44003,"Ancenis","-1.16667","47.3667","Bretagne","Nantes","Brigade",1,,,,,,1,4,,5
+14,"Angers",49007,"Angers","-0.55","47.4667","Anjou","Angers","P. Générale",1,1,,1,1,1,1,12,1,18
+15,"Angoulême",16015,"Angoulême","0.15","45.65","Limousin","Angoulême","D. de la P. Générale",0,,,1,,1,,4,,6
+16,"Anonnonai","‎07010","Annonay","4.66667","45.2333","Languedoc","Puy","Brigade",0,,,,,1,,4,,5
+17,"Apt",84003,"Apt","5.4","43.8833","Provence","Digne","Brigade",0,,,,,,1,4,,5
+18,"Arcis sur Aube","‎10006","Arcis-sur-Aube","4.13333","48.5333","Champagne","Troyes","Brigade",1,,,,,1,,4,,5
+19,"Argentat",19010,"Argentat","1.93333","45.1","Limousin","Tulles","Brigade",1,,,,1,,,4,,5
+20,"Argenton",36006,"Argenton-sur-Creuse","1.51667","46.5833","Berry","Bourges","Brigade",1,,,,,,1,4,,5
+21,"Arpajon",91021,"Arpajon","2.25","48.5833","Paris","Melun","Brigade",1,,,,,1,,4,,5
+22,"Arras",62041,"Arras","2.78333","50.2833","Artois","Amiens","Brigade",1,,,1,,,1,4,,6
+24,"Aubenas",7019,"Aubenas","4.38333","44.6167","Languedoc","Puy","Brigade",0,,,,,1,,4,,5
+25,"Aubigny",18015,"Aubigny-sur-Nère","2.43333","47.4833","Berry","Bourges","Brigade",0,,,,,1,,4,,5
+26,"Aubusson",61011,"Aubusson","-0.55","48.7833","Bourbonnais","Gueret","Brigade",0,,,,,1,,4,,5
+27,"Auch",32013,"Auch","0.583333","43.65","Béarn","Auch","D. de la P. Générale",0,,,1,1,,,4,,6
+29,"Aulney",76631,,,,"Caen","Caen","Brigade",0,,,,,,1,4,,5
+30,"Aumale",76035,"Aumale","1.75","49.7667","Rouen","Rouen","Brigade",0,,,,,,1,4,,5
+32,"Aurillac",15014,"Aurillac","2.45","44.9167","Auvergne","St Flour","Brigade",1,,,,1,,,4,,5
+33,"Autry",8036,"Autry","4.83333","49.2667","Champagne","Challons","Brigade",0,,,,,1,,4,,5
+34,"Autun",71014,"Autun","4.3","46.95","Bourgogne","Autun","D. de la P. Générale",0,,1,1,,1,,4,,7
+35,"Auxerre",89024,"Auxerre","3.56667","47.8","Bourgogne","Auxerre","D. de la P. Générale",1,,1,1,,1,,4,,7
+36,"Auxonne",21038,"Auxonne","5.38333","47.2","Bourgogne","Dijon","Brigade",1,,,,,,1,4,,5
+23,"Avallon",89025,"Avallon","3.9","47.4833","Bourgogne","Auxerre","Brigade",0,,,,,,1,4,,5
+28,"Avennes","Belgique","Avennes","5.1141","50.571","Hainaut","Valenciennes","Brigade",1,,,,,1,,4,,5
+31,"Avranches",50025,"Avranches","-1.36667","48.6833","Caen","Coutances","Brigade",1,,,,1,,,4,,5
+37,"Bapaume",62080,"Bapaume","2.85","50.1","Artois","Arras","Brigade",1,,,,,,1,4,,5
+38,"Bar-le-duc",55029,"Bar-le-Duc","5.16667","48.7833","Lorraine","Bar-le-duc","D. de la P. Générale",1,,,1,,,1,4,,6
+39,"Bar-sur-Aube",10033,"Bar-sur-Aube","4.71667","48.2333","Champagne","Troyes","Brigade",1,,,,1,,,4,,5
+40,"Barbesieux",16028,"Barbezieux-Saint-Hilaire","-0.155556","45.4728","Aunix","Saintes","Brigade",1,,,,,1,,4,,5
+41,"Baugé",49018,"Baugé","-0.1","47.5417","Anjou","Angers","Brigade",0,,,,1,,,4,,5
+42,"Baume",25047,"Baume-les-Dames","6.36667","47.35","Bourgogne","Besançon","Brigade",1,,,,1,,,4,,5
+43,"Bayeux",14047,"Bayeux","-0.7","49.2667","Caen","Caen","Brigade",1,,,,1,,,4,,5
+44,"Bayonne",64102,"Bayonne","-1.48333","43.4833","Béarn","Mont de Marsan","Brigade",1,,,,1,,,4,,5
+47,"Beaumont",14055,"Beaumont-en-Auge","0.116667","49.2833","Alençon","Falaise","Brigade",1,,,,,,1,4,,5
+46,"Beaumont",72029,"Beaumont-sur-Sarthe","0.133333","48.2167","Maine","Le Mans","Brigade",1,,,,1,,,4,,5
+45,"Beaumont",95052,"Beaumont-sur-Oise","2.28333","49.1333","Paris","Beauvais","Brigade",1,,,,,1,,4,,5
+48,"Beaune",21054,"Beaune","4.83333","47.0333","Bourgogne","Autun","Brigade",1,,,,,,1,4,,5
+49,"Beauvais",60057,"Beauvais","2.08333","49.4333","Paris","Beauvais","D. de la P. Générale",1,,,1,1,,,4,,6
+51,"Bélac",87011,"Bellac","1.05","46.1167","Limousin","Limoges","Brigade",0,,,,,,1,4,,5
+50,"Belfort",90010,"Belfort","6.86667","47.6333","Alsace","Colmar","Brigade",1,,,,1,,,4,,5
+53,"Bergues",59067,"Bergues","2.43333","50.9667","Flandres","Lille","Brigade",1,,,,,1,,4,,5
+56,"Besançon",25056,"Besançon","6.03333","47.25","Bourgogne","Besançon","P. Générale",1,1,,1,,1,1,8,1,13
+54,"Besse",63038,"Besse-et-Saint-Anastaise","2.93278","45.5131","Auvergne","Riom","Brigade",0,,,,,1,,4,,5
+52,"Bessey",21065,"Bessey-en-Chaume","4.73333","47.0833","Bourgogne","Bessey","D. de la P. Générale",0,,1,,,1,,4,,6
+55,"Bessine",87014,"Bessines-sur-Gartempe","1.36667","46.1","Limousin","Limoges","Brigade",1,,,,,1,,4,,5
+69,"Beurganeuf",23030,"Bourganeuf","1.75","45.95","Limousin","Limoges","Brigade",0,,,,1,,,4,,5
+57,"Béziers",34032,"Béziers","3.25","43.35","Languedoc","Montpellier","Brigade",1,,,,,1,,4,,5
+58,"Bitche",57089,"Bitche","7.43333","49.05","Lorraine","Sarguemine","Brigade",1,,,,1,,1,4,,6
+59,"Blamont","‎54077","Blamont","6.85","48.5833","Lorraine","Nancy","Brigade",1,,,,,1,,4,,5
+60,"Blaye",33058,"Blaye","-0.662222","45.1278","Guyenne","Bordeaux","Brigade",0,,,,,1,,4,,5
+61,"Blois",41018,"Blois","1.33333","47.5833","Orléanais","Blois","D. de la P. Générale",1,,,1,,1,1,8,,11
+62,"Boen",42019,"Boën","3.98333","45.7333","Lyonnais","Montbrison","Brigade",1,,,,,,1,4,,5
+64,"Bondy",93010,"Bondy","2.46667","48.9","Ile-de-France","Paris","Brigade",1,,,,1,,,4,,5
+65,"Bony",45040,"Bonny-sur-Loire","2.84","47.5024","Orléanais","Orléans","Brigade",1,,,,,1,,4,,5
+66,"Bordeaux",33063,"Bordeaux","-0.566667","44.8333","Guyenne","Bordeaux","P. Générale",1,1,,2,1,,1,8,1,14
+74,"Boulai","‎57097","Boulay-Moselle","6.5","49.1833","Lorraine","Sarguemine","Brigade",1,,,,,1,,4,,5
+63,"Boulogne",31080,"Boulogne-sur-Gesse","0.644722","43.2895","Béarn","Auch","Brigade",0,,,,,,1,4,,5
+75,"Boulogne",62160,"Boulogne-sur-Mer","1.61667","50.7167","Picardie","Boulogne","D. de la P. Générale",1,,,1,,,1,4,,6
+67,"Bourbonne",52060,"Bourbonne-les-Bains","5.75","47.95","Champagne","Langres","Brigade",0,,,,,1,,4,,5
+70,"Bourg",1053,"Bourg-en-Bresse","5.21667","46.2","Bourgogne","Bourg","D. de la P. Générale",0,,1,,1,1,,4,,7
+71,"Bourg la reine",92014,"Bourg-la-Reine","2.31667","48.775","Ile-de-France","Paris","Brigade",1,,,1,,,,4,,5
+68,"Bourg-Achard",27103,"Bourg-Achard","0.816667","49.35","Rouen","Caudebec","Brigade",1,,,,,,1,4,,5
+72,"Bourges",18033,"Bourges","2.4","47.0833","Berry","Bourges","P. Générale",1,1,,2,1,1,,8,1,14
+73,"Bourgoin",38053,"Bourgoin-Jallieu","5.27972","45.5917","Dauphiné","Grenoble","Brigade",1,,,,,,1,4,,5
+76,"Bourmont",52064,"Bourmont","5.58333","48.2","Lorraine","Bar le duc","Brigade",0,,,,,1,,4,,5
+78,"Bousonville","‎57106","Bouzonville","6.53333","49.3","Lorraine","Sarguemine","Brigade",0,,,,,1,,4,,5
+77,"Boussac",23031,"Boussac","2.215","46.3489","Berry","Bourges","Brigade",0,,,,,,1,4,,5
+81,"Brésol",61059,"Bresolettes","0.633333","48.6333","Alençon","Alençon","Brigade",0,,,,,,1,4,,5
+79,"Breteuil",60104,"Breteuil","2.3","49.6333","Picardie","Amiens","Brigade",1,,,,1,,,4,,5
+80,"Brethel",61060,"Brethel","0.533333","48.7167","Alençon","Alençon","Brigade",0,,,,,1,,4,,5
+82,"Brie-Comte-Robert",77053,"Brie-Comte-Robert","2.61667","48.6833","Paris","Melun","Brigade",1,,,,1,,,4,,5
+83,"Brignolle",83023,"Brignoles","6.06667","43.4","Provence","Aix","Brigade",1,,,,,,1,4,,5
+84,"Brioude",43040,"Brioude","3.4","45.3","Auvergne","Riom","Brigade",1,,,,1,,,4,,5
+85,"Brives la G.","‎19031","Brive-la-Gaillarde","1.53333","45.15","Limousin","Tulles","Brigade",0,,,,1,,1,8,,10
+86,"Brons",22020,"Broons","-2.26667","48.3167","Bretagne","Rennes","Brigade",1,,,,,1,,4,,5
+87,"Caen",14118,"Caen","-0.35","49.1833","Caen","Caen","P. Générale",1,1,,1,,1,1,8,1,13
+88,"Cahors",46042,"Cahors","1.43333","44.4333","Montauban","Cahors","D. de la P. Générale",1,,,1,,1,1,8,,11
+89,"Calais",62193,"Calais","1.83333","50.95","Picardie","Boulogne","Brigade",1,,,,,1,,4,,5
+90,"Cambrai",59122,"Cambrai","3.23333","50.1667","Flandres","Cambrai","D. de la P. Générale",1,,,1,1,,,4,,6
+91,"Cambremer",14126,"Cambremer","0.05","49.15","Rouen","Caudebec","Brigade",0,,,,,1,,4,,5
+92,"Carcassonne",11069,"Carcassonne","2.35","43.2167","Languedoc","Carcassonne","D. de la P. Générale",1,,,1,,,1,4,,6
+93,"Carentan",50099,"Carentan","-1.23333","49.3","Caen","Coutances","Brigade",1,,,,,,1,4,,5
+97,"Casets",64175,"Castet","-0.416667","43.0667","Béarn","Mont de Marsan","Brigade",1,,,,,,1,4,,5
+94,"Cassel",59135,"Cassel","2.48333","50.8","Flandres","Cambrai","Brigade",1,,,,,,1,4,,5
+95,"Casteljaloux ",47052,"Casteljaloux","0.1","44.3167","Guyenne","Agen","Brigade",0,,,,,1,,4,,5
+96,"Castelnaudary",11076,"Castelnaudary","1.95","43.3167","Languedoc","Toulouse","Brigade",1,,,,,1,,4,,5
+98,"Castres",81065,"Castres","2.25","43.6","Languedoc","Carcassonne","Brigade",1,,,,,,1,4,,5
+99,"Caudebec",76164,"Caudebec-en-Caux","0.733333","49.5333","Rouen","Caudebec","D. de la P. Générale",1,,,1,,,1,4,,6
+100,"Caudies",66046,"Caudiès-de-Fenouillèdes","2.38333","42.8167","Languedoc","Carcassonne","Brigade",0,,,,,,1,4,,5
+101,"Cernay",68063,"Cernay","7.16667","47.8167","Alsace","Colmar","Brigade",1,,,,,1,,3,,4
+102,"Chabanais",16070,"Chabanais","0.716667","45.8667","Limousin","Angoulême","Brigade",0,,,,,,1,4,,5
+103,"Chalabre",11091,"Chalabre",2,"42.9833","Languedoc","Carcassonne","Brigade",0,,,,,,1,4,,5
+104,"Chalans",85047,"Challans","-1.88333","46.85","Poitou","Montaigu","Brigade",0,,,,,1,,4,,5
+105,"Challons",51108,"Châlons-en-Champagne","4.36667","48.9583","Champagne","Challons","P. Générale",1,1,,2,1,1,1,12,1,19
+106,"Chalon",71076,"Chalon-sur-Saône","4.85","46.7833","Bourgogne","Chalons","D. de la P. Générale",1,,1,1,,1,,4,,7
+107,"Champeau",21139,"Champeau-en-Morvan","4.14417","47.2764","Bourgogne","Dijon","Brigade",0,,,,,,1,4,,5
+108,"Chantonnay",85051,"Chantonnay","-1.05","46.6833","Poitou","Fontenay le Comte","Brigade",0,,,,,,1,4,,5
+109,"Charenton",94018,"Charenton-le-Pont","2.41667","48.8167","Ile-de-France","Paris","Brigade",1,,,1,,,,4,,5
+110,"Charolles",71106,"Charolles","4.28333","46.4333","Bourgogne","Charolles","D. de la P. Générale",0,,1,1,,1,,4,,7
+111,"Chartres",28085,"Chartres","1.5","48.45","Orléanais","Chartres","D. de la P. Générale",1,,,1,,1,1,8,,11
+133,"Chaselle","‎57642","Scy-Chazelles","6.11667","49.1167","Lyonnais","Lyon","Brigade",0,,,,,,1,4,,5
+112,"Chasseneuil",16085,"Chasseneuil-sur-Bonnieure","0.45","45.8239","Limousin","Angoulême","Brigade",0,,,,,1,,4,,5
+125,"Chat. la Vallière",37062,"Château-la-Vallière","0.316667","47.55","Touraine","Tours","Brigade",0,,,,,,1,4,,5
+113,"Chateau Briand",44036,"Châteaubriant","-1.38333","47.7167","Bretagne","Nantes","Brigade",0,,,,1,,,4,,5
+114,"Chateau Chinon",58062,"Château-Chinon (Ville)","3.93305","47.0653","Bourbonnais","Nevers","Brigade",0,,,,1,,,4,,5
+118,"Chateau du loir",72071,"Château-du-Loir","0.416667","47.7","Maine","Le Mans","Brigade",0,,,,,1,,4,,5
+115,"Chateau Dun",28088,"Châteaudun","1.33333","48.0833","Orléanais","Chartres","Brigade",0,,,,1,,,4,,5
+116,"Chateau Gontier",53062,"Château-Gontier","-0.7","47.8333","Anjou","Chateau Gontier","D. de la P. Générale",0,,,1,,1,,4,,6
+122,"Chateau renaud",37063,"Château-Renault","0.916667","47.5833","Touraine","Tours","Brigade",0,,,,,1,,4,,5
+124,"Chateau Thierry",2168,"Château-Thierry","3.4","49.05","Soissonnais","Soissons","Brigade",1,,,,,1,,4,,5
+117,"Chateaulin",29026,"Châteaulin","-4.08333","48.2","Bretagne","Quimper","Brigade",1,,,,,1,,4,,5
+120,"Chateauneuf",45082,"Châteauneuf-sur-Loire","2.23333","47.8667","Berry","Bourges","Brigade",0,,,,,,1,4,,5
+119,"Chateauneuf",45082,"Châteauneuf-sur-Loire","2.23333","47.8667","Orléanais","Orléans","Brigade",0,,,,1,,,4,,5
+121,"Chateauneuf",61101,"Le Château-d'Almenêches","0.116667","48.6833","Alençon","Alençon","Brigade",0,,,,1,,,4,,5
+123,"Chateauroux",36044,"Châteauroux","1.7","46.8167","Berry","Chatillon","Brigade",1,,,,1,,,4,,5
+126,"Chatellereault","‎86066","Châtellerault","0.533333","46.8","Poitou","Poitiers","Brigade",1,,,,1,,,4,,5
+129,"Chatillon",21154,"Châtillon-sur-Seine","4.55","47.85","Bourgogne","Chatillon","D. de la P. Générale",0,,1,1,,1,,4,,7
+127,"Chatillon",36045,"Châtillon-sur-Indre","1.16667","46.9833","Berry","Chatillon","D. de la P. Générale",0,,,1,,,1,4,,6
+128,"Chatillon",86067,"Châtillon","0.2","46.3167","Poitou","Montaigu","Brigade",0,,,,1,,,4,,5
+130,"Chaudes Aigues",15045,"Chaudes-Aigues",3,"44.85","Auvergne","St Flour","Brigade",0,,,,,1,,4,,5
+131,"Chaume",77107,"Chaumes-en-Brie","2.85","48.6667","Paris","Melun","Brigade",0,,,,1,,,4,,5
+132,"Chaumont",52121,"Chaumont","5.13333","48.1167","Champagne","Langres","Brigade",1,,,,1,,,4,,5
+134,"Chef-boutonne",79083,"Chef-Boutonne","-0.05","46.1","Poitou","Fontenay le Comte","Brigade",0,,,,,,1,4,,5
+135,"Chénéraille",23061,"Chénérailles","2.16667","46.1167","Bourbonnais","Gueret","Brigade",0,,,,,,1,4,,5
+136,"Chevreuse",78160,"Chevreuse","2.05","48.7","Paris","Mantes","Brigade",0,,,,1,,,4,,5
+137,"Chinon",37072,"Chinon","0.25","47.1667","Touraine","Tours","Brigade",0,,,,,1,,4,,5
+138,"Cholet",49099,"Cholet","-0.883333","47.0667","Anjou","Angers","Brigade",0,,,,1,,,4,,5
+139,"Clammecy",58079,"Clamecy","3.51667","47.45","Orléanais","Montargis","Brigade",0,,,,,,1,4,,5
+140,"Clermont",60157,"Clermont","2.4","49.3833","Soissonnais","Clermont","D. de la P. Générale",1,,,1,,1,,4,,6
+141,"Clermont",63113,"Clermont-Ferrand","3.08333","45.7833","Auvergne","Clermont","P. Générale",1,1,,,1,,1,8,1,12
+142,"Cognac",16102,"Cognac","-0.333333","45.7","Aunix","Saintes","Brigade",0,,,,,,1,4,,5
+143,"Colmar",68066,"Colmar","7.36667","48.0833","Alsace","Colmar","D. de la P. Générale",1,,,1,,1,,3,,5
+144,"Compiègne",60159,"Compiègne","2.83333","49.4167","Paris","Senlis","Brigade",1,,,,1,,,4,,5
+145,"Confolens",16106,"Confolens","0.666667","46.0167","Poitou","Montmorillon","Brigade",0,,,,,,1,4,,5
+146,"Corbeil",91174,"Corbeil-Essonnes","2.4829","48.5566","Paris","Melun","Brigade",1,,,,1,,,4,,5
+147,"Corps",38128,"Corps","5.95","44.8167","Dauphiné","Gap","Brigade",0,,,,,,1,4,,5
+148,"Coulommiers",77131,"Coulommiers","3.08333","48.8167","Paris","Meaux","Brigade",0,,,,1,,,4,,5
+149,"Courtenai",45115,"Courtenay","3.05","48.0333","Paris","Sens","Brigade",0,,,,,1,,4,,5
+150,"Coutances",50147,"Coutances","-1.43333","49.05","Caen","Coutances","D. de la P. Générale",0,,,1,,1,,4,,6
+151,"Coutras",33138,"Coutras","-0.133333","45.0333","Guyenne","Bordeaux","Brigade",1,,,,,,1,4,,5
+152,"Craon",53084,"Craon","-0.95","47.85","Anjou","Château-Gontier","Brigade",0,,,,,,1,4,,5
+153,"Creon",33140,"Créon","-0.35","44.7833","Guyenne","Bordeaux","Brigade",0,,,,,,1,4,,5
+154,"Cusset",3095,"Cusset","3.46667","46.1333","Bourbonnais","Moulins","Brigade",0,,,,1,,,4,,5
+155,"Dammartin",77153,"Dammartin-en-Goële","2.68333","49.05","Paris","Meaux","Brigade",1,,,,,,1,4,,5
+156,"Darney",88124,"Darney","6.05","48.0833","Lorraine","Epinal","Brigade",0,,,,,1,,4,,5
+157,"Dax",40088,"Dax","-1.05","43.7167","Béarn","Mont de Marsan","Brigade",1,,,,,,1,4,,5
+529,"Dernon",27681,"Vernon","1.48333","49.0833","Rouen","Rouen","Brigade",1,,,,,,1,4,,5
+158,"Dezise",58095,"Decize","3.46667","46.8333","Bourbonnais","Nevers","Brigade",0,,,,,,1,4,,5
+159,"Die",26113,"Die","5.36667","44.75","Dauphiné","Valence","Brigade",0,,,,,,1,4,,5
+160,"Dieppe",76217,"Dieppe","1.08333","49.9333","Rouen","Rouen","Brigade",1,,,,,1,,4,,5
+161,"Dieuze",57177,"Dieuze","6.71667","48.8167","Lorraine","Nancy","Brigade",0,,,,,1,,4,,5
+162,"Digne",4070,"Digne-les-Bains","6.23639","44.0933","Provence","Digne","D. de la P. Générale",0,,,1,,1,,4,,6
+163,"Dijon",21231,"Dijon","5.01667","47.3167","Bourgogne","Dijon","P. Générale",1,1,,1,,1,1,12,1,17
+164,"Dinan",22050,"Dinan","-2.23639","48.4564","Bretagne","Rennes","Brigade",0,,,,1,,,4,,5
+165,"Dol",35095,"Dol-de-Bretagne","-1.75","48.55","Bretagne","Rennes","Brigade",0,,,,,,1,4,,5
+166,"Dole",39198,"Dole","5.5","47.1","Bourgogne","Besançon","Brigade",1,,,,1,,,4,,5
+167,"Domfront",61145,"Domfront","-0.65","48.6","Alençon","Alençon","Brigade",0,,,,,,1,4,,5
+168,"Dormans",51217,"Dormans","3.63333","49.0667","Champagne","Challons","Brigade",1,,,,,1,,4,,5
+169,"Douai",59178,"Douai","3.06667","50.3667","Flandres","Cambrai","Brigade",1,,,,1,,,4,,5
+171,"Doulens",80253,"Doullens","2.35","50.15","Picardie","Abbeville","Brigade",1,,,,1,,,4,,5
+170,"Dourdan",91200,"Dourdan","2.01667","48.5333","Orléanais","Chartres","Brigade",0,,,,,,1,4,,5
+172,"Draguignan",83050,"Draguignan","6.46667","43.5333","Provence","Aix","Brigade",0,,,,,,1,4,,5
+173,"Dreux",28134,"Dreux","1.36667","48.7333","Paris","Mantes","Brigade",1,,,,1,,,4,,5
+175,"Dun-le-Paltau",23244,"Saint-Sulpice-le-Dunois","1.73333","46.3","Bourbonnais","Gueret","Brigade",0,,,,,1,,4,,5
+174,"Dun-le-Roy",18087,"Dun-sur-Auron","2.56667","46.8833","Berry","Bourges","Brigade",0,,,,,1,,4,,5
+176,"Ecouché",61153,"Écouché","-0.133333","48.7167","Alençon","Alençon","Brigade",0,,,,1,,,4,,5
+177,"Ecouis",27214,"Écouis","1.43333","49.3167","Rouen","Rouen","Brigade",1,,,,1,,,4,,5
+178,"Embrun",5046,"Embrun","6.5","44.5667","Dauphiné","Gap","Brigade",0,,,,,1,,4,,5
+179,"Epernai",51230,"Épernay","3.95","49.05","Champagne","Challons","Brigade",1,,,,1,,,4,,5
+182,"Epinal",88160,"Épinal","6.45","48.1833","Lorraine","Epinal","D. de la P. Générale",0,,,1,,,1,4,,6
+180,"Ernée",53096,"Ernée","-0.933333","48.3","Anjou","Château-Gontier","Brigade",0,,,,,,1,4,,5
+181,"Espaillon",12096,"Espalion","2.76667","44.5167","Montauban","Rhodez","Brigade",0,,,,,,1,4,,5
+183,"Etain",55181,"Étain","5.63333","49.2167","Lorraine","Bar le duc","Brigade",0,,,,1,,1,4,,6
+184,"Etampes",91223,"Étampes","2.15","48.4333","Paris","Melun","Brigade",1,,,,1,,,4,,5
+185,"Etoges",51238,"Étoges","3.85","48.8833","Champagne","Challons","Brigade",0,,,,,,1,4,,5
+186,"Eu",76255,"Eu","1.41667","50.05","Rouen","Rouen","Brigade",1,,,,1,,,4,,5
+187,"Evaux",23076,"Évaux-les-Bains","2.48333","46.1667","Bourbonnais","Gueret","Brigade",0,,,,,,1,4,,5
+188,"Evreux",27229,"Évreux","1.15","49.0167","Rouen","Rouen","Brigade",1,,,,1,,,4,,5
+189,"Evron",53097,"Évron","-0.4","48.1667","Maine","Le Mans","Brigade",0,,,,,,1,4,,5
+190,"Falaise",14258,"Falaise","-0.2","48.9","Alençon","Falaise","D. de la P. Générale",1,,,1,1,,,4,,6
+191,"Fer Champenoise",51248,"Fère-Champenoise","3.98333","48.75","Champagne","Challons","Brigade",0,,,,,,1,4,,5
+192,"Figeac",46102,"Figeac","2.03333","44.6","Montauban","Cahors","Brigade",0,,,,1,,,4,,5
+193,"Fismes",51250,"Fismes","3.68333","49.3","Champagne","Reims","Brigade",1,,,,,,1,4,,5
+194,"Fontainebleau",77186,"Fontainebleau","2.7","48.4","Paris","Melun","Brigade",1,,,,1,,,4,,5
+195,"Fontenay le Comte",85092,"Fontenay-le-Comte","-0.816667","46.4667","Poitou","Fontenay le Comte","D. de la P. Générale",0,,,1,,,1,4,,6
+196,"Fougeres",35115,"Fougères","-1.2","48.35","Bretagne","Rennes","Brigade",0,,,,,,1,4,,5
+197,"Fréjus",83061,"Fréjus","6.73611","43.4339","Provence","Aix","Brigade",1,,,,,1,,4,,5
+198,"Fronton",31202,"Fronton","1.4","43.85","Languedoc","Toulouse","Brigade",0,,,,,,1,4,,5
+199,"Gacé",61181,"Gacé","0.3","48.8","Alençon","Falaise","Brigade",0,,,,,,1,4,,5
+200,"Gange",34111,"Ganges","3.7","43.9333","Languedoc","Montpellier","Brigade",0,,,,,,1,4,,5
+201,"Gannat",3118,"Gannat","3.2","46.1","Bourbonnais","Moulins","Brigade",1,,,,,1,,4,,5
+202,"Gap",5061,"Gap","6.08333","44.5667","Dauphiné","Gap","D. de la P. Générale",0,,,1,,,1,4,,6
+203,"Gex",1173,"Gex","6.06667","46.3333","Bourgogne","Gex","D. de la P. Générale",0,,1,,,1,,4,,6
+204,"Gien",45155,"Gien","2.63333","47.7","Orléanais","Orléans","Brigade",0,,,,,1,,4,,5
+205,"Givet",8190,"Givet","4.81667","50.1333","Hainaut","Valenciennes","Brigade",1,,,,,,1,4,,5
+206,"Gournay",93033,"Montataire","2.439","49.1997","Soissonnais","Clermont","Brigade",1,,,,,,1,4,,5
+208,"Grai",70279,"Gray","5.58333","47.45","Bourgogne","Vezoul","Brigade",0,,,,1,,,4,,5
+207,"Grasse",6069,"Grasse","6.91667","43.6667","Provence","Aix","Brigade",0,,,,,,1,4,,5
+209,"Grenade",31232,"Grenade","1.29361","43.7722","Béarn","Auch","Brigade",0,,,,,,1,4,,5
+210,"Grenoble",38185,"Grenoble","5.71667","45.1667","Dauphiné","Grenoble","P. Générale",1,1,,1,1,,1,8,1,13
+211,"Guer",56075,"Guer","-2.11667","47.9","Bretagne","Rennes","Brigade",1,,,,,,1,4,,5
+212,"Gueret",23096,"Guéret","1.86667","46.1667","Bourbonnais","Gueret","D. de la P. Générale",0,,,1,,,1,4,,6
+213,"Guingamp",22070,"Guingamp","-3.15","48.55","Bretagne","Rennes","Brigade",1,,,,,1,,4,,5
+214,"Guise",2361,"Guise","3.63333","49.9","Soissonnais","Laon","Brigade",1,,,,1,,,4,,5
+215,"Haboudange",57281,"Haboudange","6.61667","48.8833","Trois Evêchés","Metz","Brigade",1,,,,,,1,4,,5
+216,"Haguenau",67180,"Haguenau","7.78333","48.8167","Alsace","Strasbourg","Brigade",1,,,,,,1,4,,5
+217,"Hennebon",56083,"Hennebont","-3.28333","47.8","Bretagne","Vannes","Brigade",1,,,,,1,,4,,5
+218,"Hesdin",62447,"Hesdin","2.03333","50.3667","Artois","Arras","Brigade",1,,,,,,1,4,,5
+219,"Hirson",2381,"Hirson","4.08333","49.9167","Soissonnais","Laon","Brigade",0,,,,,1,,4,,5
+220,"Illiers",28196,"Illiers-Combray","1.2475","48.3006","Orléanais","Chartres","Brigade",0,,,,,,1,4,,5
+221,"Ingrandes",49160,"Ingrandes","-0.916667","47.4","Anjou","Angers","Brigade",1,,,,,,1,4,,5
+222,"Issoire",63178,"Issoire","3.25","45.55","Auvergne","Riom","Brigade",1,,,,1,,,4,,5
+223,"Issoudun",36088,"Issoudun",2,"46.95","Berry","Chatillon","Brigade",0,,,,1,,,4,,5
+224,"Ivry",21318,"Ivry-en-Montagne","4.63333","47.0333","Bourgogne","Autun","Brigade",0,,,,,,1,4,,5
+225,"Joigny",89206,"Joigny","3.4","47.9833","Paris","Sens","Brigade",1,,,,,1,,4,,5
+226,"Joinville",52250,"Joinville","5.13333","48.45","Champagne","Langres","Brigade",1,,,,1,,,4,,5
+227,"Jussey",70292,"Jussey","5.9","47.8167","Bourgogne","Vezoul","Brigade",0,,,,,1,,4,,5
+228,"Karhais",29024,"Carhaix-Plouguer","-3.58333","48.2833","Bretagne","Quimper","Brigade",0,,,,,,1,4,,5
+229,"La Brelle",69010,"L'Arbresle","4.61667","45.8333","Lyonnais","Lyon","Brigade",1,,,,,,1,4,,5
+230,"La Charité",58059,"La Charité-sur-Loire","3.01889","47.177","Berry","Bourges","Brigade",1,,,,1,1,,8,,10
+231,"La Chataigneraie",85059,"La Châtaigneraie","-0.733333","46.65","Poitou","Fontenay le Comte","Brigade",0,,,,,,1,4,,5
+232,"La Chatre",36046,"La Châtre","1.98333","46.5833","Berry","Bourges","Brigade",0,,,,,,1,4,,5
+233,"La Fère",2304,"La Fère","3.36667","49.6667","Soissonnais","Laon","Brigade",1,,,,1,,,4,,5
+234,"La Ferté Bernard","‎72132","La Ferté-Bernard","0.666667","48.1833","Maine","Le Mans","Brigade",1,,,,1,,,4,,5
+235,"La Ferté Sen...te",45146,"La Ferté-Saint-Aubin","1.93333","47.7167","Orléanais","Orléans","Brigade",1,,,,,,1,4,,5
+236,"La Flèche",72154,"La Flèche","-0.083333","47.7","Anjou","Angers","Brigade",1,,,,1,,,4,,5
+247,"La Pacaudière",42163,"La Pacaudière","3.86667","46.1833","Lyonnais","Roane","Brigade",1,,,,1,,,4,,5
+248,"La Rochelle",17300,"La Rochelle","-1.15","46.1667","Aunix","La Rochelle","P. Générale",1,1,,1,1,,1,8,1,13
+237,"Lagny",77243,"Lagny-sur-Marne","2.71667","48.8667","Paris","Meaux","Brigade",0,,,,1,,,4,,5
+238,"Lambale",22093,"Lamballe","-2.51667","48.4667","Bretagne","Rennes","Brigade",1,,,,,,1,4,,5
+239,"Landerneau",29103,"Landerneau","-4.25","48.45","Bretagne","Quimper","Brigade",1,,,,1,,,4,,5
+240,"Landreci",59331,"Landrecies","3.7","50.1333","Hainaut","Valenciennes","Brigade",1,,,,,1,,4,,5
+241,"Langeac",43112,"Langeac","3.48333","45.1","Auvergne","Riom","Brigade",0,,,,,,1,4,,5
+242,"Langeais",37123,"Langeais","0.4","47.3333","Touraine","Tours","Brigade",1,,,,,1,,4,,5
+243,"Langennerie","‎45093","Chevilly","1.88333","48.0333","Orléanais","Orléans","Brigade",0,,,,,1,,4,,5
+244,"Langon",33227,"Langon","-0.25","44.55","Guyenne","Bordeaux","Brigade",0,,,,,1,,4,,5
+245,"Langres",52269,"Langres","5.33333","47.8667","Champagne","Langres","D. de la P. Générale",1,,,1,1,,1,8,,11
+246,"Laon",2408,"Laon","3.61667","49.5667","Soissonnais","Laon","D. de la P. Générale",1,,,1,,,1,4,,6
+251,"Launoi",51367,"Le Mesnil-sur-Oger","4.01667","48.95","Champagne","Reims","Brigade",0,,,,,1,,4,,5
+249,"Laval",53130,"Laval","-0.766667","48.0667","Anjou","Château-Gontier","Brigade",1,,,,1,,,4,,5
+250,"Lavaur",81140,"Lavaur","1.81667","43.7","Languedoc","Toulouse","Brigade",0,,,,,,1,4,,5
+252,"Le Blanc",36018,"Le Blanc","1.06667","46.6333","Berry","Bourges","Brigade",0,,,,,,1,4,,5
+253,"Le Boulon","Ancienne commune","Le Boulon","2.983044","42.714608","Roussillon","Perpignan","Brigade",1,,,,,1,,4,,5
+254,"Le Chêne",10095,"Le Chêne","4.18333","48.55","Champagne","Reims","Brigade",1,,,,,,1,4,,5
+256,"Le Donjon",3103,"Le Donjon","3.8","46.35","Bourbonnais","Moulins","Brigade",0,,,,,1,,4,,5
+257,"Le Mans",72181,"Le Mans","0.2",48,"Maine","Le Mans","Brigade",1,,,1,1,,1,8,,11
+259,"Le Puy",43157,"Le Puy-en-Velay","3.88583","45.0442","Languedoc","Le Puy","D. de la P. Générale",0,,,1,1,,1,8,,11
+255,"Lectoure",32208,"Lectoure","0.616667","43.9333","Béarn","Auch","Brigade",0,,,,,1,,4,,5
+258,"Lens",62498,"Lens","2.83333","50.4333","Artois","Arras","Brigade",1,,,,,1,,4,,5
+260,"Lesparre",33240,"Lesparre-Médoc","-0.933333","45.3","Guyenne","Bordeaux","Brigade",0,,,,,1,,4,,5
+261,"Lihons",80481,"Lihons","2.76667","49.8167","Rouen","Rouen","Brigade",0,,,,,,1,4,,5
+263,"Lille",59350,"Lille","3.06667","50.6333","Flandres","Lille","P. Générale",1,1,,1,1,1,1,12,1,18
+262,"Lillers",62516,"Lillers","2.48333","50.5667","Artois","Arras","Brigade",1,,,,,,1,4,,5
+264,"Limoges",87085,"Limoges","1.25","45.85","Limousin","Limoges","P. Générale",1,1,,1,,1,1,8,1,13
+265,"Lipostey",40156,"Liposthey","-0.883333","44.3167","Guyenne","Bordeaux","Brigade",1,,,,,,1,4,,5
+266,"Loches",37132,"Loches",1,"47.1333","Touraine","Tours","Brigade",1,,,,,,1,4,,5
+267,"Lodeves",34142,"Lodève","3.31667","43.7167","Languedoc","Montpellier","Brigade",0,,,,1,,,4,,5
+268,"Lombez",32213,"Lombez","0.916667","43.4833","Béarn","Auch","Brigade",0,,,,,,1,4,,5
+269,"Longwy",54323,"Longwy","5.76667","49.5167","Trois Evêchés","Verdun","Brigade",1,,,,,,1,4,,5
+270,"Lons-le-Saunier",39300,"Lons-le-Saunier","5.55","46.6667","Bourgogne","Lons-le-Saunier","D. de la P. Générale",0,,,1,,,1,4,,6
+272,"Louans",71263,"Louhans","5.224","46.5702","Bourgogne","Chalons","Brigade",0,,,,,,1,4,,5
+271,"Loudun",86137,"Loudun","0.066667",47,"Touraine","Tours","Brigade",0,,,,1,,,4,,5
+273,"Louvier",27375,"Louviers","1.16667","49.2167","Rouen","Rouen","Brigade",0,,,,,1,,4,,5
+274,"Louvres",95351,"Louvres","2.5","49.0333","Paris","Senlis","Brigade",1,,,,,1,,4,,5
+275,"Luçon",85128,"Luçon","-1.16667","46.45","Poitou","Fontenay le Comte","Brigade",0,,,,,1,,4,,5
+276,"Luneville",54329,"Lunéville","6.5","48.6","Lorraine","Nancy","Brigade",1,,,,1,,1,4,,6
+277,"Lure",70310,"Luré","6.5","47.6833","Bourgogne","Vezoul","Brigade",1,,,,,1,,4,,5
+278,"Lusignan",86139,"Lusignan","0.116667","46.4333","Poitou","Poitiers","Brigade",1,,,,,,1,4,,5
+279,"Lyon",69123,"Lyon","4.84139","45.7589","Lyonnais","Lyon","P. Générale",1,1,,1,,1,1,8,1,13
+280,"Mâcon",71270,"Mâcon","4.83333","46.3","Bourbonnais","Mâcon","D. de la P. Générale",1,,1,1,,1,,4,,7
+281,"Magny",95355,"Magny-en-Vexin","1.7825","49.0937","Rouen","Rouen","Brigade",1,,,,,,1,4,,5
+282,"Maintenon",28227,"Maintenon","1.58333","48.5833","Orléanais","Chartres","Brigade",1,,,,,1,,4,,5
+283,"Mallemort",13053,"Mallemort","5.18333","43.7333","Provence","Aix","Brigade",0,,,,,1,,4,,5
+284,"Manosque",4112,"Manosque","5.78333","43.8333","Provence","Digne","Brigade",0,,,,,1,,4,,5
+285,"Mansle",16206,"Mansle","0.183333","45.8667","Limousin","Angoulême","Brigade",0,,,,1,,,4,,5
+286,"Mantes",78361,"Mantes-la-Jolie","1.71667","48.9833","Paris","Mantes","D. de la P. Générale",1,,,1,,1,,4,,6
+287,"Marans",17218,"Marans",-1,"46.3","Aunix","Rochelle","Brigade",0,,,,,,1,4,,5
+288,"Marenne",17219,"Marennes","-1.11667","45.8167","Aunix","Saintes","Brigade",0,,,,,1,,4,,5
+289,"Marmande",47157,"Marmande","0.166667","44.5","Guyenne","Agen","Brigade",1,,,,,,1,4,,5
+291,"Marseille",13055,"Marseille","5.37639","43.2967","Provence","Aix","Brigade",1,,,,1,,1,8,,10
+290,"Marseille",60387,"Marseille-en-Beauvaisis","1.95","49.5833","Paris","Beauvais","Brigade",0,,,,,,1,4,,5
+292,"Maubert-Font...ne",8282,"Maubert-Fontaine","4.43333","49.8667","Champagne","Reims","Brigade",0,,,,1,,,4,,5
+293,"Maubeuge",59392,"Maubeuge","3.96667","50.2833","Hainaut","Valenciennes","Brigade",1,,,,1,,,4,,5
+294,"Mauriac",15120,"Mauriac","2.33333","45.2167","Auvergne","St Flour","Brigade",0,,,,1,,,4,,5
+295,"Mauzé",79170,"Mauzé-sur-le-Mignon","-0.666667","46.2","Aunix","Rochelle","Brigade",0,,,,,,1,4,,5
+296,"Mayenne",53147,"Mayenne","-0.616667","48.3","Anjou","Château-Gontier","Brigade",1,,,,1,,,4,,5
+297,"Meaux",77284,"Meaux","2.86667","48.95","Paris","Meaux","D. de la P. Générale",1,,,1,,1,,4,,6
+298,"Melun",77288,"Melun","2.66667","48.5333","Paris","Melun","P. Générale",1,1,,1,1,1,,8,1,13
+299,"Mende",48095,"Mende","3.5","44.5167","Languedoc","Puy","Brigade",0,,,,1,,,4,,5
+300,"Mesle",79174,"Mellé","-0.133333","46.2167","Poitou","Fontenay le Comte","Brigade",1,,,,,1,,4,,5
+301,"Messac",17231,"Messac","-0.316667","45.35","Limousin","Tulles","Brigade",0,,,,,1,,4,,5
+302,"Metz",57463,"Metz","6.16667","49.1333","Trois Evêchés","Metz","P. Générale",1,1,,1,1,,1,8,1,13
+303,"Meulan",78401,"Meulan-en-Yvelines","1.9","49.0167","Paris","Mantes","Brigade",1,,,,,,1,4,,5
+304,"Mézières",8105,"Charleville-Mézières","4.71667","49.7667","Champagne","Reims","Brigade",1,,,,,1,,4,,5
+306,"Milhaud",12145,"Millau","3.0789","44.0363","Montauban","Rhodez","Brigade",0,,,,1,,,4,,5
+305,"Mirecourt",88304,"Mirecourt","6.13333","48.3","Lorraine","Epinal","Brigade",0,,,,1,,1,4,,6
+316,"Mont de Marsan",40192,"Mont-de-Marsan","-0.5","43.8833","Béarn","Mont de Marsan","D. de la P. Générale",0,,,1,,1,,4,,6
+325,"Mont-medi",55351,"Montmédy","5.36667","49.5167","Trois Evêchés","Verdun","Brigade",1,,,,,,1,4,,5
+330,"Mont-rejau",31390,"Montréjeau","0.583333","43.0833","Béarn","Auch","Brigade",0,,,,,,1,4,,5
+331,"Mont-reveau",49218,"Montrevault","-1.05","47.2667","Anjou","Angers","Brigade",0,,,,,1,,4,,5
+309,"Montaigu",63233,"Montaigut","2.80833","46.1833","Auvergne","Riom","Brigade",0,,,,,,1,4,,5
+308,"Montaigu",85146,"Montaigu","-1.31667","46.9833","Poitou","Montaigu","D. de la P. Générale",0,,,1,,,1,4,,6
+310,"Montandre",17240,"Montendre","-0.4","45.2833","Aunix","Saintes","Brigade",0,,,,,1,,4,,5
+311,"Montargis",45208,"Montargis","2.75",48,"Orléanais","Montargis","D. de la P. Générale",1,,,1,1,,1,8,,11
+312,"Montauban",82121,"Montauban","1.35","44.0167","Montauban","Montauban","P. Générale",1,1,,,1,1,,8,1,12
+313,"Montbar",21425,"Montbard","4.33333","47.6167","Bourgogne","Montbar","D. de la P. Générale",0,,1,1,,1,,4,,7
+314,"Montbrison",42147,"Montbrison","4.05","45.6","Lyonnais","Montbrison","D. de la P. Générale",0,,,1,,,1,4,,6
+315,"Montcornet",2502,"Montcornet","4.01723","49.6956","Soissonnais","Laon","Brigade",0,,,,,,1,4,,5
+307,"Montdidier",80561,"Montdidier","2.56667","49.65","Picardie","Amiens","Brigade",1,,,,,1,,4,,5
+317,"Montélimar",26198,"Montélimar","4.75","44.5667","Dauphiné","Valence","Brigade",1,,,,1,,,4,,5
+318,"Montereau",45213,"Montereau","2.56667","47.85","Paris","Sens","Brigade",0,,,,,1,,4,,5
+320,"Montfaucon",2505,"Montfaucon","3.45","48.95","Champagne","Challons","Brigade",0,,,,,1,,4,,5
+319,"Montfort","‎78420","Montfort-l'Amaury","1.81667","48.7833","Paris","Mantes","Brigade",0,,,,,,1,4,,5
+321,"Montierender",52331,"Montier-en-Der","4.76667","48.4833","Champagne","Troyes","Brigade",1,,,,,,1,4,,5
+323,"Montluçon",3185,"Montluçon","2.6","46.3333","Bourbonnais","Moulins","Brigade",0,,,,1,,,4,,5
+322,"Montluel",1262,"Montluel","5.05","45.85","Bourgogne","Bourg","Brigade",1,,,,,,1,4,,5
+324,"Montmaraud",3186,"Montmarault","2.95","46.3167","Bourbonnais","Moulins","Brigade",0,,,,,1,,4,,5
+326,"Montmirel",51380,"Montmirail","3.53333","48.8667","Soissonnais","Soissons","Brigade",0,,,,,,1,4,,5
+327,"Montmorillon",86165,"Montmorillon","0.866667","46.4333","Poitou","Montmorillon","D. de la P. Générale",0,,,1,1,,,4,,6
+328,"Montoire",41149,"Montoire-sur-le-Loir","0.866667","47.75","Orléanais","Blois","Brigade",0,,,,,,1,4,,5
+329,"Montpellier",34172,"Montpellier","3.88333","43.6","Languedoc","Montpellier","P. Générale",1,1,,1,1,1,1,12,1,18
+332,"Montreuil",27414,"Montreuil-l'Argillé","0.483333","48.9333","Alençon","Falaise","Brigade",0,,,,1,,,4,,5
+333,"Montreuil",62588,"Montreuil","1.76417","50.4644","Picardie","Boulogne","Brigade",1,,,,,,1,4,,5
+334,"Morlaix",29151,"Morlaix","-3.83333","48.5833","Bretagne","Quimper","Brigade",1,,,,1,,,4,,5
+335,"Morley",55359,"Morley","5.25","48.5833","Lorraine","Bar le duc","Brigade",0,,,,,1,,4,,5
+336,"Mortagne",61293,"Mortagne-au-Perche","0.55","48.5167","Alençon","Alençon","Brigade",1,,,,1,,,4,,5
+337,"Mortain",50359,"Mortain","-0.933333","48.65","Caen","Caen","Brigade",0,,,,,,1,4,,5
+338,"Moulins",3190,"Moulins","3.33333","46.5667","Bourbonnais","Moulins","P. Générale",1,1,,1,,1,1,8,1,13
+339,"Mur de Barrez","‎12164","Mur-de-Barrez","2.65","44.85","Montauban","Rhodez","Brigade",0,,,,1,,,4,,5
+340,"Murat",15138,"Murat","2.86667","45.1167","Auvergne","St Flour","Brigade",0,,,,,,1,4,,5
+341,"Mussidan",24299,"Mussidan","0.366667","45.0333","Guyenne","Perigueux","Brigade",0,,,,,1,,4,,5
+342,"Nancy",54395,"Nancy","6.2","48.6833","Lorraine","Nancy","P. Générale",1,1,,1,1,1,,8,1,13
+343,"Nangis",77327,"Nangis",3,"48.55","Paris","Provins","Brigade",1,,,,,1,,4,,5
+344,"Nantes",44109,"Nantes","-1.55","47.2167","Bretagne","Nantes","D. de la P. Générale",1,,,1,1,,,4,,6
+345,"Narbonne",11262,"Narbonne",3,"43.1833","Languedoc","Carcassonne","Brigade",1,,,,1,,,4,,5
+346,"Neaufle",27426,"Neaufles-Saint-Martin","1.73333","49.2833","Paris","Mantes","Brigade",1,,,,1,,,4,,5
+347,"Nemours",77333,"Nemours","2.7","48.2667","Paris","Melun","Brigade",1,,,,1,,,4,,5
+348,"Nerac",47195,"Nérac","0.35","44.1333","Guyenne","Agen","Brigade",0,,,,1,,,4,,5
+349,"Neufchateau",88321,"Neufchâteau","5.7","48.35","Lorraine","Bar le duc","Brigade",1,,,,1,,1,4,,6
+350,"Neufchatel",76462,"Neufchâtel-en-Bray","1.45","49.7333","Rouen","Rouen","Brigade",0,,,,,1,,4,,5
+351,"Nevers",58194,"Nevers","3.16667","46.9833","Bourbonnais","Nevers","D. de la P. Générale",1,,,1,1,,,4,,6
+353,"Nîmes",30189,"Nîmes","4.35","43.8333","Languedoc","Montpellier","Brigade",1,,,,1,,1,8,,10
+352,"Nions",26220,"Nyons","5.13333","44.3667","Dauphiné","Gap","Brigade",0,,,,1,,,4,,5
+354,"Niort",79191,"Niort","-0.466667","46.3167","Poitou","Fontenay le Comte","Brigade",1,,,,1,,,4,,5
+355,"Nogaro",32296,"Nogaro","-0.033333","43.7667","Béarn","Mont de Marsan","Brigade",0,,,,,,1,4,,5
+356,"Nogent",10268,"Nogent-sur-Seine","3.5046","48.4365","Paris","Provins","Brigade",1,,,,1,,,4,,5
+357,"Nontron",24311,"Nontron","0.666667","45.5333","Guyenne","Perigueux","Brigade",0,,,,,,1,4,,5
+358,"Noyers",89279,"Noyers",4,"47.7","Bourgogne","Auxerre","Brigade",0,,,,,,1,4,,5
+359,"Noyon",60471,"Noyon",3,"49.5833","Soissonnais","Soissons","Brigade",1,,,,1,,,4,,5
+360,"Nozai",44113,"Nozay","-1.63333","47.5667","Bretagne","Nantes","Brigade",1,,,,,,1,4,,5
+361,"Oléron",64422,"Oloron-Sainte-Marie","-0.6","43.2","Béarn","Pau","Brigade",0,,,,,1,,4,,5
+362,"Orange",84087,"Orange","4.8","44.1333","Dauphiné","Valence","Brigade",0,,,,1,,,4,,5
+363,"Orléans",45234,"Orléans","1.9","47.9167","Orléanais","Orléans","P. Générale",1,1,,2,1,1,1,12,1,19
+364,"Ouchi le Chateau","‎02210","Condé-sur-Aisne","3.45","49.4","Soissonnais","Soissons","Brigade",0,,,,,,1,4,,5
+365,"Paluau","‎85169","Palluau","-1.61667","46.8","Poitou","Montaigu","Brigade",0,,,,,,1,4,,5
+366,"Pamiers",9225,"Pamiers","1.6","43.1167","Roussillon","Pamiers","D. de la P. Générale",0,,,1,,,1,4,,6
+367,"Paris",75056,"Paris","2.34445","48.86","Ile-de-France","Paris","P. Générale",1,1,,1,4,,,11,1,18
+368,"Partenay","‎79202","Parthenay","-0.25","46.65","Poitou","Poitiers","Brigade",0,,,,,,1,4,,5
+369,"Passy","Ancienne commune","Passy","2.2852","48.8005","Ile-de-France","Paris","Brigade",0,,,,1,,,4,,5
+370,"Pau",64445,"Pau","-0.366667","43.3","Béarn","Pau","P. Générale",0,1,,1,1,,1,8,1,13
+371,"Périgueux",24322,"Périgueux","0.716667","45.1833","Guyenne","Périgueux","D. de la P. Générale",0,,,1,,1,,4,,6
+372,"Péronne",80620,"Péronne","2.93333","49.9333","Picardie","Amiens","Brigade",1,,,,1,,,4,,5
+373,"Perpignan",66136,"Perpignan","2.88333","42.6833","Roussillon","Perpignan","P. Générale",1,1,,1,,1,1,8,1,13
+374,"Pezenas",34199,"Pézenas","3.41667","43.45","Languedoc","Montpellier","Brigade",1,,,,,,1,4,,5
+375,"Phalzbourg",57540,"Phalsbourg","7.26667","48.7667","Trois Evêchés","Metz","Brigade",1,,,,,1,,4,,5
+376,"Philippeville","Belgique","Philippeville","4.5319","50.1285","Hainaut","Valenciennes","Brigade",1,,,,1,,,4,,5
+377,"Pierre-Bussier",87119,"Pierre-Buffière","1.35","45.7","Limousin","Limoges","Brigade",1,,,,,,1,4,,5
+378,"Pithiviers",45252,"Pithiviers","2.25","48.1667","Orléanais","Orléans","Brigade",0,,,,1,,,4,,5
+379,"Ploermel",56165,"Ploërmel","-2.4","47.9333","Bretagne","Vannes","Brigade",0,,,,,1,,4,,5
+380,"Poitiers",86194,"Poitiers","0.333333","46.5833","Poitou","Poitiers","P. Générale",1,1,,1,1,,1,8,1,13
+381,"Poix",80630,"Poix-de-Picardie","1.98417","49.7759","Picardie","Abbeville","Brigade",0,,,,,1,,4,,5
+382,"Poligny",39434,"Poligny","5.71667","46.8333","Bourbonnais","Lons les Saunier","Brigade",0,,,,1,,,4,,5
+387,"Pont de Beauvoisin",38315,"Le Pont-de-Beauvoisin","5.66667","45.5333","Dauphiné","Grenoble","Brigade",1,,,,,1,,4,,5
+385,"Pont-Audenier",27467,"Pont-Audemer","0.516667","49.35","Rouen","Caudebec","Brigade",1,,,,,1,,4,,5
+383,"Pontamousson","‎54431","Pont-à-Mousson","6.06667","48.9","Lorraine","Nancy","Brigade",1,,,,,1,,4,,5
+384,"Pontarlier",25462,"Pontarlier","6.36667","46.9","Bourgogne","Besançon","Brigade",0,,,,,,1,4,,5
+386,"Pontchateau",44129,"Pontchâteau","-2.08333","47.4333","Bretagne","Nantes","Brigade",0,,,,,,1,4,,5
+388,"Pontivi","‎56178","Pontivy","-2.98333","48.0667","Bretagne","Vannes","Brigade",0,,,,,,1,4,,5
+389,"Pontlévêque",14514,"Pont-l'Évêque","0.183333","49.3","Rouen","Caudebec","Brigade",1,,,,,1,,4,,5
+390,"Pontoise",95500,"Pontoise","2.1","49.05","Paris","Beauvais","Brigade",1,,,,,1,,4,,5
+391,"Prades",66149,"Prades","2.43333","42.6167","Roussillon","Perpignan","Brigade",1,,,,1,,,4,,5
+392,"Preuilli",37189,"Preuilly-sur-Claise","0.933333","46.85","Touraine","Tours","Brigade",0,,,,,,1,4,,5
+393,"Prezenpail",53185,"Pré-en-Pail","-0.2","48.45","Maine","Le Mans","Brigade",1,,,,,,1,4,,5
+394,"Privas",7186,"Privas","4.6","44.7333","Languedoc","Puy","Brigade",0,,,,,1,,4,,5
+395,"Prothy",52405,"Prauthoy","5.28333","47.6667","Champagne","Langres","Brigade",1,,,,,,1,4,,5
+396,"Provins",77379,"Provins","3.3","48.55","Paris","Provins","D. de la P. Générale",1,,,1,,,1,4,,6
+397,"Quimper",29232,"Quimper","-4.1",48,"Bretagne","Quimper","D. de la P. Générale",0,,,1,,,1,4,,6
+398,"Quimperlai",29233,"Quimperlé","-3.55","47.8667","Bretagne","Vannes","Brigade",0,,,,,1,,4,,5
+399,"Quintin",22262,"Quintin","-2.91667","48.4","Bretagne","Rennes","Brigade",0,,,,,,1,4,,5
+400,"Rambervillers",88367,"Rambervillers","6.63333","48.35","Lorraine","Epinal","Brigade",0,,,,,1,,4,,5
+401,"Redon",35236,"Redon","-2.08333","47.65","Bretagne","Nancy","Brigade",0,,,,,1,,4,,5
+408,"Reims",51454,"Reims","4.03333","49.25","Champagne","Reims","D. de la P. Générale",1,,,1,1,,1,8,,11
+402,"Reling","Allemagne","Reling","6.6797","49.3206","Lorraine","Sarguemine","Brigade",0,,,,1,,1,4,,6
+403,"Remalard",61345,"Rémalard","0.783333","48.4333","Alençon","Alençon","Brigade",1,,,,,,1,4,,5
+404,"Remiremont",88383,"Remiremont","6.58333","48.0167","Lorraine","Epinal","Brigade",1,,,,,1,,4,,5
+405,"Remoulin",30212,"Remoulins","4.56667","43.9333","Languedoc","Montpellier","Brigade",1,,,,,,1,4,,5
+406,"Rennes",35238,"Rennes","-1.68333","48.0833","Bretagne","Rennes","P. Générale",1,1,,2,1,1,1,12,1,19
+407,"Rethel",8362,"Rethel","4.36667","49.5167","Champagne","Reims","Brigade",1,,,,1,,,4,,5
+409,"Rhodez","‎12202","Rodez","2.56667","44.3333","Montauban","Rhodez","D. de la P. Générale",0,,,1,,1,1,8,,11
+410,"Riom",63300,"Riom","3.11667","45.9","Auvergne","Riom","D. de la P. Générale",1,,,1,1,,,4,,6
+411,"Roane","‎42187","Roanne","4.06889","46.0367","Lyonnais","Roane","D. de la P. Générale",1,,,1,,,1,4,,6
+412,"Rochefort",17299,"Rochefort","-0.983333","45.9333","Aunix","Rochelle","Brigade",0,,,,1,,,4,,5
+413,"Romorantin",41194,"Romorantin-Lanthenay","1.74361","47.3589","Orléanais","Blois","Brigade",1,,,,,,1,4,,5
+414,"Rouen",76540,"Rouen","1.08333","49.4333","Rouen","Rouen","P. Générale",1,1,,1,1,1,1,12,1,18
+415,"Roye",80685,"Roye","2.8","49.7","Picardie","Amiens","Brigade",1,,,,,1,,4,,5
+416,"Ruffec",16292,"Ruffec","0.2","46.0167","Limousin","Angoulême","Brigade",0,,,,1,,,4,,5
+417,"Sablé",72264,"Sablé-sur-Sarthe","-0.333333","47.8333","Anjou","Château-Gontier","Brigade",1,,,,,1,,4,,5
+418,"Sables d’Olone",85194,"Sables-d'Olonne","-1.78333","46.5","Poitou","Montaigu","Brigade",0,,,,,1,,4,,5
+438,"Saintes",17415,"Saintes","-0.633333","45.75","Aunix","Saintes","D. de la P. Générale",0,,,1,,1,,4,,6
+470,"Salins",39500,"Salins-les-Bains","5.8777","46.8808","Bourgogne","Lons-le-Saunier","Brigade",0,,,,,1,,4,,5
+471,"Sancerre",18241,"Sancerre","2.83333","47.3333","Berry","Bourges","Brigade",0,,,,,1,,4,,5
+472,"Sancy",54491,"Sancy","5.925","49.3475","Lorraine","Bar le duc","Brigade",0,,,,,1,,4,,5
+476,"Sar Louis","Allemagne","Sar Louis","6.7511","49.2606","Trois Evêchés","Metz","Brigade",1,,,,,,1,4,,5
+473,"Sarbourb","‎57630","Sarrebourg","7.05","48.7333","Trois Evêchés","Metz","Brigade",1,,,,1,,,4,,5
+474,"Sarguemine","‎57631","Sarreguemines","7.05","49.1","Lorraine","Sarguemine","D. de la P. Générale",0,,,1,,,1,4,,6
+475,"Sarlat",24520,"Sarlat-la-Canéda","1.21667","44.8833","Guyenne","Perigueux","Brigade",0,,,,1,,,4,,5
+478,"Saulieu",21584,"Saulieu","4.23333","47.2667","Bourgogne","Auxerre","Brigade",0,,,,,,1,4,,5
+479,"Saumur",49328,"Saumur","-0.083333","47.2667","Anjou","Angers","Brigade",1,,,,1,1,,8,,10
+480,"Sauveterre",33506,"Sauveterre-de-Guyenne","-0.083333","44.7","Guyenne","Bordeaux","Brigade",0,,,,,1,,4,,5
+477,"Saverne",67437,"Saverne","7.36667","48.7333","Alsace","Strasbourg","Brigade",1,,,,,1,,3,,4
+419,"Schlestat",67462,"Sélestat","7.45","48.2667","Alsace","Colmar","Brigade",1,,,,,,1,3,,4
+481,"Sedan",8409,"Sedan","4.95","49.7","Trois Evêchés","Verdun","Brigade",1,,,,1,,,4,,5
+482,"Ségrais",49331,"Segré","-0.866667","47.6833","Anjou","Château-Gontier","Brigade",0,,,,,1,,4,,5
+483,"Senlis",60612,"Senlis","2.58333","49.2","Paris","Senlis","D. de la P. Générale",1,,,1,,1,,4,,6
+484,"Sens",89387,"Sens","3.28389","48.1981","Paris","Sens","D. de la P. Générale",1,,,1,1,,,4,,6
+485,"Seurre",21607,"Seurre","5.15",47,"Bourgogne","Chalons","Brigade",0,,,,,,1,4,,5
+486,"Sèvre",92072,"Sèvres","2.2","48.8167","Ile-de-France","Paris","Brigade",0,,,1,,,,6,,7
+487,"Sézanne",51535,"Sézanne","3.71667","48.7167","Champagne","Challons","Brigade",0,,,,1,,,4,,5
+488,"Sigean",11379,"Sigean","2.98333","43.0333","Languedoc","Carcassonne","Brigade",1,,,,,1,,4,,5
+489,"Sillé le Guillaume","‎72334","Sillé-le-Guillaume","-0.133333","48.2","Maine","Le Mans","Brigade",0,,,,,1,,4,,5
+490,"Sisteron",4209,"Sisteron","5.93333","44.2","Provence","Digne","Brigade",0,,,,,,1,4,,5
+491,"Sivrai",86078,"Civray","0.3","46.15","Poitou","Montmorillon","Brigade",0,,,,,1,,4,,5
+492,"Soissons",2722,"Soissons","3.33333","49.3667","Soissonnais","Soissons","P. Générale",1,1,,1,1,,1,8,1,13
+493,"Sommiere",30321,"Sommières","4.08333","43.7833","Languedoc","Montpellier","Brigade",0,,,,,,1,4,,5
+494,"Souillac",46309,"Souillac","1.48333","44.9","Montauban","Cahors","Brigade",1,,,,,1,,4,,5
+420,"St Amand",18197,"Saint-Amand-Montrond","2.50555","46.7236","Berry","Bourges","Brigade",0,,,,,1,,4,,5
+421,"St Amand",59526,"Saint-Amand-les-Eaux","3.43333","50.4333","Flandres","Cambrai","Brigade",1,,,,,1,,4,,5
+424,"St Anduel",69179,"Saint-Andéol-le-Château","4.6967","45.5256","Lyonnais","Lyon","Brigade",0,,,,,1,,4,,5
+422,"St Aubin",55454,"Saint-Aubin-sur-Aire","5.45","48.7","Lorraine","Bar le duc","Brigade",1,,,,,1,,4,,5
+423,"St Avold",57606,"Saint-Avold","6.7","49.1","Lorraine","Sarguemine","Brigade",0,,,,,1,,4,,5
+425,"St Benoit",36182,"Saint-Benoît-du-Sault","1.4","46.45","Berry","Bourges","Brigade",0,,,,,1,,4,,5
+426,"St Bonnet",16303,"Saint-Bonnet","-0.1","45.4833","Lyonnais","Montbrison","Brigade",0,,,,,1,,4,,5
+427,"St Brieux",22278,"Saint-Brieuc","-2.78333","48.5167","Bretagne","Rennes","Brigade",1,,,,1,,,4,,5
+428,"St Calais",72269,"Saint-Calais","0.75","47.9167","Maine","Le Mans","Brigade",0,,,,,,1,4,,5
+465,"St Céré",46251,"Saint-Céré","1.9","44.8667","Montauban","Cahors","Brigade",0,,,,,1,,4,,5
+429,"St Claude",39478,"Saint-Claude","5.86667","46.3833","Bourgogne","Lons-le-Saunier","Brigade",1,,,,1,,,4,,5
+430,"St Denis",93066,"Saint-Denis","2.35833","48.9333","Ile-de-France","Paris","Brigade",1,,,1,,,,4,,5
+431,"St Die",88413,"Saint-Dié-des-Vosges","6.95","48.2833","Lorraine","Epinal","Brigade",0,,,,1,,1,4,,6
+432,"St Dizier",52448,"Saint-Dizier","4.95","48.6333","Champagne","Challons","Brigade",1,,,,1,,,4,,5
+433,"St Esprit",34245,"Saint-Chinian","2.9471","43.3611","Languedoc","Montpellier","Brigade",1,,,,,,1,4,,5
+434,"St Etienne",42218,"Saint-Étienne","4.4","45.4333","Lyonnais","Montbrison","Brigade",0,,,,1,,,4,,5
+435,"St Fargeau",89344,"Saint-Fargeau","3.06667","47.6333","Orléanais","Montargis","Brigade",0,,,,1,,,4,,5
+436,"St Florentin",89345,"Saint-Florentin","3.73333",48,"Paris","Tonnerre","Brigade",0,,,,1,,,4,,5
+437,"St Flour",15187,"Saint-Flour","3.09278","45.0337","Auvergne","St Flour","D. de la P. Générale",1,,,1,1,,,4,,6
+440,"St Genis",17331,"Saint-Genis-de-Saintonge","-0.5658","45.4235","Aunix","Saintes","Brigade",0,,,,,,1,4,,5
+442,"St Germain",78551,"Saint-Germain-en-Laye","2.08333","48.9","Ile-de-France","Paris","Brigade",1,,,,1,,,4,,5
+441,"St Giron",9261,"Saint-Girons","1.15","42.9833","Béarn","Auch","Brigade",0,,,,,1,,4,,5
+443,"St Jean d’Angely",17347,"Saint-Jean-d'Angély","-0.516667","45.95","Aunix","Rochelle","Brigade",0,,,,1,,,4,,5
+444,"St Jean de Porc",64485,"Saint-Jean-Pied-de-Port","-1.23333","43.1667","Béarn","Pau","Brigade",0,,,,,,1,4,,5
+445,"St Julien",1368,"Saint-Julien-sur-Veyle","4.95","46.2","Bourgogne","Bourg","Brigade",0,,,,,,1,4,,5
+446,"St Junien",87154,"Saint-Junien","0.9","45.8833","Limousin","Limoges","Brigade",0,,,,,,1,4,,5
+447,"St Laurent","‎37054","Chanceaux-sur-Choisille","0.7","47.4667","Orléanais","Orléans","Brigade",1,,,,,,1,4,,5
+448,"St Léonard",87161,"Saint-Léonard-de-Noblat","1.48333","45.8333","Limousin","Limoges","Brigade",0,,,,,,1,4,,5
+449,"St Lo",50502,"Saint-Lô","-1.08333","49.1167","Caen","Coutances","Brigade",1,,,,,1,,4,,5
+450,"St Maixent","‎79270","Saint-Maixent-l'École","-0.2","46.4167","Poitou","Poitiers","Brigade",1,,,,,1,,4,,5
+451,"St Mammert",69224,"Saint-Mamert","4.58333","46.25","Auvergne","St Flour","Brigade",0,,,,,1,,4,,5
+452,"St Marcellin",38416,"Saint-Marcellin","5.31667","45.15","Dauphiné","Grenoble","Brigade",1,,,,,,1,4,,5
+454,"St Martin",21561,"Saint-Martin-du-Mont","4.78639","47.4331","Bourgogne","Bessey","Brigade",1,,,,,,1,4,,5
+456,"St Mihiel",55463,"Saint-Mihiel","5.55","48.9","Lorraine","Bar le duc","Brigade",0,,,,,1,,4,,5
+458,"St Omer",62765,"Saint-Omer","2.25","50.75","Picardie","Arras","Brigade",1,,,,1,,,4,,5
+459,"St Pierre Le mo",58264,"Saint-Pierre-le-Moûtier","3.11667","46.8","Bourbonnais","Nevers","Brigade",1,,,,,,1,4,,5
+460,"St Pol",62767,"Saint-Pol-sur-Ternoise","2.33333","50.3833","Picardie","Arras","Brigade",1,,,,,1,,4,,5
+461,"St Pons",34284,"Saint-Pons-de-Thomières","2.76028","43.4887","Languedoc","Carcassonne","Brigade",0,,,,,1,,4,,5
+462,"St Quentin",2691,"Saint-Quentin","3.28333","49.85","Picardie","Amiens","Brigade",1,,,,1,,,4,,5
+463,"St Romain","‎76647","Saint-Romain-de-Colbosc","0.366667","49.5333","Rouen","Caudebec","Brigade",0,,,,1,,,4,,5
+464,"St Sauge",58267,"Saint-Saulge","3.5","47.1","Bourbonnais","Nevers","Brigade",0,,,,,,1,4,,5
+466,"St Sévère",40282,"Saint-Sever","-0.566667","43.7667","Béarn","Mont de Marsan","Brigade",0,,,,,1,,4,,5
+467,"St Simphorien","‎42289","Saint-Symphorien-de-Lay","4.21667","45.95","Lyonnais","Roane","Brigade",1,,,,,1,,4,,5
+468,"St Valery",80721,"Saint-Valery-sur-Somme","1.63333","50.1833","Picardie","Abbeville","Brigade",1,,,,,,1,4,,5
+469,"St Vallier",26333,"Saint-Vallier","4.81667","45.1667","Dauphiné","Valence","Brigade",1,,,,,1,,4,,5
+439,"Ste Foy",33402,"Sainte-Foy-la-Grande","0.216667","44.8333","Guyenne","Perigueux","Brigade",0,,,,,,1,4,,5
+453,"Ste Marie aux mines",68298,"Sainte-Marie-aux-Mines","7.18333","48.25","Lorraine","Epinal","Brigade",0,,,,,1,,4,,5
+455,"Ste Menehould",51507,"Sainte-Menehould","4.9","49.0833","Champagne","Challons","Brigade",1,,,,1,,1,4,,6
+457,"Ste More",37226,"Sainte-Maure-de-Touraine","0.616667","47.1","Touraine","Tours","Brigade",0,,,,,1,,4,,5
+495,"Strasbourg",67482,"Strasbourg","7.75","48.5833","Alsace","Strasbourg","P. Générale",1,1,,1,1,,,8,1,12
+496,"Tarare",69243,"Tarare","4.43333","45.9","Lyonnais","Roane","Brigade",1,,,,,,1,4,,5
+499,"Tarascon",9306,"Tarascon-sur-Ariège","1.6","42.85","Roussillon","Pamiers","Brigade",0,,,,1,,,4,,5
+498,"Tarascon",13108,"Tarascon","4.66667","43.8","Provence","Aix","Brigade",0,,,,,,1,4,,5
+497,"Tarbes",65440,"Tarbes","0.083333","43.2333","Béarn","Pau","Brigade",0,,,,,,1,4,,5
+500,"Tauve",63426,"Tauves","2.63333","45.5667","Auvergne","Riom","Brigade",0,,,,,1,,4,,5
+502,"Thiberville",27629,"Thiberville","0.45","49.1333","Alençon","Falaise","Brigade",0,,,,,1,,4,,5
+503,"Thiers",63430,"Thiers","3.56667","45.85","Auvergne","Riom","Brigade",1,,,,,1,,4,,5
+504,"Thionville",57672,"Thionville","6.16667","49.3667","Trois Evêchés","Metz","Brigade",1,,,,,1,,4,,5
+505,"Thisy",69248,"Thizy","4.31667","46.0333","Lyonnais","Roane","Brigade",0,,,,,,1,4,,5
+506,"Thouars",79329,"Thouars","-0.216667","46.9667","Poitou","Poitiers","Brigade",0,,,,1,,,4,,5
+507,"Thoury",41260,"Thoury","1.6","47.6333","Orléanais","Orléans","Brigade",1,,,,1,,,4,,5
+501,"Tiaucourt","‎54518","Thiaucourt-Regniéville","5.86612","48.9542","Lorraine","Nancy","Brigade",0,,,,,1,,4,,5
+508,"Tonnerre",89418,"Tonnerre","3.96667","47.85","Paris","Tonnerre","D. de la P. Générale",0,,,1,,1,,4,,6
+509,"Toste","‎27340","Honguemare-Guenouville","0.816667","49.3667","Rouen","Rouen","Brigade",1,,,,,,1,4,,5
+510,"Touarcé","‎49345","Thouarcé","-0.5","47.2667","Anjou","Angers","Brigade",0,,,,,,1,4,,5
+511,"Toul",54528,"Toul","5.9","48.6833","Trois Evêchés","Verdun","Brigade",1,,,,1,,,4,,5
+512,"Toulon",71542,"Toulon-sur-Arroux","4.13333","46.6833","Bourgogne","Charolles","Brigade",0,,,,,,1,4,,5
+513,"Toulon",83137,"Toulon","5.93333","43.1167","Provence","Aix","Brigade",1,,,,,,1,4,,5
+514,"Toulouse",31555,"Toulouse","1.43333","43.6","Languedoc","Toulouse","D. de la P. Générale",1,,,1,,1,1,8,,11
+515,"Tournon",7324,"Tournon-sur-Rhône","3.109","44.871","Languedoc","Puy","Brigade",0,,,,1,,,4,,5
+516,"Tournus",71543,"Tournus","4.9","46.5667","Bourgogne","Mâcon","Brigade",1,,,,,,1,4,,5
+517,"Tours",37261,"Tours","0.683333","47.3833","Touraine","Tours","D. de la P. Générale",1,,,2,1,1,1,12,,17
+518,"Troyes",10387,"Troyes","4.08333","48.3","Champagne","Troyes","D. de la P. Générale",1,,,1,1,1,,8,,11
+519,"Tulles","‎19272","Tulle","1.76667","45.2667","Limousin","Tulles","D. de la P. Générale",1,,,1,,1,,4,,6
+547,"Ussel","‎19275","Ussel","2.31667","45.55","Limousin","Tulles","Brigade",0,,,,,1,,4,,5
+548,"Uzerche","‎19276","Uzerche","1.56667","45.4167","Limousin","Tulles","Brigade",1,,,,,1,,4,,5
+520,"Vabres",15245,"Vabres","3.208","44.9745","Montauban","Rhodez","Brigade",0,,,,1,,,4,,5
+521,"Valence",26362,"Valence","4.9","44.9333","Dauphiné","Valence","D. de la P. Générale",1,,,1,,,1,4,,6
+522,"Valenciennes",59606,"Valenciennes","3.53333","50.35","Hainaut","Valenciennes","P. Générale",1,1,,1,,1,1,8,1,13
+523,"Valognes",50615,"Valognes","-1.46667","49.5167","Caen","Coutances","Brigade",1,,,,,1,,4,,5
+524,"Vannes",56260,"Vannes","-2.75","47.6667","Bretagne","Vannes","D. de la P. Générale",1,,,1,1,,,4,,6
+525,"Varennes",3298,"Varennes-sur-Allier","3.4","46.3167","Bourbonnais","Moulins","Brigade",1,,,,,,1,4,,5
+526,"Vaucouleurs",55533,"Vaucouleurs","5.66667","48.6","Champagne","Langres","Brigade",0,,,,,,1,4,,5
+527,"Vendôme",41269,"Vendôme","1.06667","47.8","Orléanais","Blois","Brigade",0,,,,,1,,4,,5
+528,"Verdun",55545,"Verdun","5.38278","49.1598","Trois Evêchés","Verdun","D. de la P. Générale",1,,,1,,1,,4,,6
+530,"Vezelay",89446,"Vézelay","3.73333","47.4667","Paris","Tonnerre","Brigade",0,,,,1,,,4,,5
+531,"Vezoul",70550,"Vesoul","6.16667","47.6333","Bourgogne","Vezoul","D. de la P. Générale",1,,,1,,,1,4,,6
+532,"Vic",57712,"Vic-sur-Seille","6.53333","48.7833","Trois Evêchés","Metz","Brigade",0,,,,1,,1,8,,10
+533,"Vienne",38544,"Vienne","4.86667","45.5167","Dauphiné","Grenoble","Brigade",1,,,,1,,,4,,5
+534,"Vierzon",18279,"Vierzon","2.08333","47.2167","Berry","Bourges","Brigade",0,,,,,,1,4,,5
+535,"Ville Dieu",50639,"Villedieu-les-Poêles","-1.21667","48.8333","Caen","Coutances","Brigade",1,,,,,1,,4,,5
+537,"Villefranche","‎12300","Villefranche-de-Rouergue","2.05","44.35","Montauban","Rhodez","Brigade",0,,,,,,2,8,,10
+536,"Villefranche","‎69264","Villefranche-sur-Saône","4.71667","45.9833","Lyonnais","Lyon","Brigade",1,,,,1,,,4,,5
+538,"Villejuif",94076,"Villejuif","2.36667","48.8","Ile-de-France","Paris","Brigade",1,,,,1,,,4,,5
+539,"Villequiers",18286,"Villequiers","2.8","47.0667","Berry","Bourges","Brigade",0,,,,,,1,4,,5
+540,"Villereal",47324,"Villeréal","0.75","44.6333","Guyenne","Agen","Brigade",0,,,,,1,,4,,5
+541,"Villers coterets",2810,"Villers-Cotterêts","3.08333","49.25","Soissonnais","Soissons","Brigade",1,,,,1,,,4,,5
+542,"Vire",14762,"Vire","-0.883333","48.8333","Caen","Caen","Brigade",0,,,,1,,,4,,5
+543,"Vissembourg",67544,"Wissembourg","7.95","49.0333","Alsace","Strasbourg","Brigade",1,,,,1,,,4,,5
+545,"Vitrey",54587,"Vitrey","6.05","48.4833","Bretagne","Rennes","Brigade",1,,,,,1,,4,,5
+546,"Vitry",51649,"Vitry-le-François","4.58333","48.7333","Champagne","Challons","Brigade",1,,,,1,,,4,,5
+544,"Vitteaux",21710,"Vitteaux","4.53333","47.4","Bourgogne","Dijon","Brigade",1,,,,,,1,4,,5
